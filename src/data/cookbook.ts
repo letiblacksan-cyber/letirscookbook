@@ -1,16 +1,21 @@
 import raw from "./cookbook-data.json";
 
-import stew from "@/assets/cat-stew.jpg";
-import grill from "@/assets/cat-grill.jpg";
-import rice from "@/assets/cat-rice.jpg";
-import snack from "@/assets/cat-snack.jpg";
-import seafood from "@/assets/cat-seafood.jpg";
-import greens from "@/assets/cat-greens.jpg";
-import staple from "@/assets/cat-staple.jpg";
-import bread from "@/assets/cat-bread.jpg";
-import sweet from "@/assets/cat-sweet.jpg";
-import drink from "@/assets/cat-drink.jpg";
-import poultry from "@/assets/cat-poultry.jpg";
+import cameroonNdole from "@/assets/dishes/cameroon-ndole.jpg";
+import egyptKoshari from "@/assets/dishes/egypt-koshari.jpg";
+import ethiopiaInjera from "@/assets/dishes/ethiopia-injera.jpg";
+import ghanaWaakye from "@/assets/dishes/ghana-waakye.jpg";
+import kenyaChapati from "@/assets/dishes/kenya-chapati.jpg";
+import kenyaPilau from "@/assets/dishes/kenya-kenyan-pilau.jpg";
+import kenyaNyamaChoma from "@/assets/dishes/kenya-nyama-choma.jpg";
+import kenyaSukumaWiki from "@/assets/dishes/kenya-sukuma-wiki.jpg";
+import kenyaUgali from "@/assets/dishes/kenya-ugali.jpg";
+import madagascarRomazava from "@/assets/dishes/madagascar-romazava.jpg";
+import mauritiusDhollPuri from "@/assets/dishes/mauritius-dholl-puri.jpg";
+import moroccoTagine from "@/assets/dishes/morocco-tagine.jpg";
+import mozambiquePiriPiriChicken from "@/assets/dishes/mozambique-piri-piri-chicken.jpg";
+import nigeriaJollofRice from "@/assets/dishes/nigeria-jollof-rice.jpg";
+import senegalThieboudienne from "@/assets/dishes/senegal-thieboudienne.jpg";
+import southAfricaBobotie from "@/assets/dishes/south-africa-bobotie.jpg";
 
 export type Category =
   | "Stews & Sauces"
@@ -25,18 +30,23 @@ export type Category =
   | "Drinks"
   | "Poultry";
 
-export const CATEGORY_IMAGES: Record<Category, string> = {
-  "Stews & Sauces": stew,
-  "Grills & Meats": grill,
-  "Rice Dishes": rice,
-  "Snacks & Street Food": snack,
-  "Fish & Seafood": seafood,
-  "Greens & Vegetables": greens,
-  "Staples & Swallows": staple,
-  "Breads & Flatbreads": bread,
-  Sweets: sweet,
-  Drinks: drink,
-  Poultry: poultry,
+const DISH_IMAGES: Record<string, string> = {
+  "cameroon-ndole": cameroonNdole,
+  "egypt-koshari": egyptKoshari,
+  "ethiopia-injera": ethiopiaInjera,
+  "ghana-waakye": ghanaWaakye,
+  "kenya-chapati": kenyaChapati,
+  "kenya-kenyan-pilau": kenyaPilau,
+  "kenya-nyama-choma": kenyaNyamaChoma,
+  "kenya-sukuma-wiki": kenyaSukumaWiki,
+  "kenya-ugali": kenyaUgali,
+  "madagascar-romazava": madagascarRomazava,
+  "mauritius-dholl-puri": mauritiusDhollPuri,
+  "morocco-tagine": moroccoTagine,
+  "mozambique-piri-piri-chicken": mozambiquePiriPiriChicken,
+  "nigeria-jollof-rice": nigeriaJollofRice,
+  "senegal-thieboudienne": senegalThieboudienne,
+  "south-africa-bobotie": southAfricaBobotie,
 };
 
 export interface Recipe {
@@ -45,7 +55,7 @@ export interface Recipe {
   country: string;
   region: string;
   category: Category;
-  image: string;
+  image?: string;
   ingredients: string[];
   steps: string[];
 }
@@ -345,7 +355,7 @@ function build(): Recipe[] {
           country,
           region,
           category,
-          image: CATEGORY_IMAGES[category],
+          image: DISH_IMAGES[slug],
           ingredients: r?.ingredients ?? [],
           steps: r?.steps ?? [],
         });
