@@ -1,0 +1,5470 @@
+{
+ "regions": {
+  "East Africa": {
+   "Kenya": [
+    "Ugali",
+    "Sukuma Wiki",
+    "Nyama Choma",
+    "Kenyan Pilau",
+    "Chapati",
+    "Mukimo",
+    "Githeri",
+    "Irio",
+    "Matoke",
+    "Maharagwe",
+    "Mandazi",
+    "Samosa",
+    "Mutura",
+    "Biriani",
+    "Mishikaki"
+   ],
+   "Tanzania": [
+    "Ugali",
+    "Nyama Choma",
+    "Chipsi Mayai",
+    "Pilau",
+    "Zanzibar Biryani",
+    "Zanzibar Pizza",
+    "Octopus Curry",
+    "Mtori",
+    "Mandazi",
+    "Vitumbua",
+    "Urojo (Zanzibar Mix)"
+   ],
+   "Uganda": [
+    "Matoke",
+    "Luwombo",
+    "Posho",
+    "Rolex",
+    "Katogo",
+    "Groundnut Stew",
+    "Muchomo",
+    "Kikomando",
+    "Malewa"
+   ],
+   "Rwanda": [
+    "Ubugali",
+    "Isombe",
+    "Brochettes",
+    "Ibihaza",
+    "Matoke",
+    "Umutsima",
+    "Sambaza"
+   ],
+   "Burundi": [
+    "Ubugali",
+    "Boko-boko Harees",
+    "Mukeke",
+    "Isombe",
+    "Brochettes"
+   ],
+   "Ethiopia": [
+    "Injera",
+    "Doro Wat",
+    "Tibs",
+    "Kitfo",
+    "Shiro",
+    "Misir Wat",
+    "Gomen",
+    "Firfir",
+    "Beyaynetu",
+    "Genfo"
+   ],
+   "Eritrea": [
+    "Injera",
+    "Zigni",
+    "Tsebhi",
+    "Alicha",
+    "Shiro",
+    "Ga'at",
+    "Tibsi"
+   ],
+   "Somalia": [
+    "Bariis Iskukaris",
+    "Canjeero",
+    "Suqaar",
+    "Sambusa",
+    "Muufo",
+    "Malawah",
+    "Fah-fah"
+   ]
+  },
+  "West Africa": {
+   "Nigeria": [
+    "Jollof Rice",
+    "Egusi Soup",
+    "Pounded Yam",
+    "Eba",
+    "Amala",
+    "Okra Soup",
+    "Moi Moi",
+    "Akara",
+    "Suya",
+    "Isi Ewu",
+    "Nkwobi",
+    "Asun",
+    "Tuwo Shinkafa",
+    "Efo Riro",
+    "Chin Chin",
+    "Puff-Puff",
+    "Dodo"
+   ],
+   "Ghana": [
+    "Jollof",
+    "Waakye",
+    "Banku",
+    "Tilapia",
+    "Kenkey",
+    "Fufu",
+    "Light Soup",
+    "Groundnut Soup",
+    "Kontomire Stew",
+    "Red-Red",
+    "Kelewele",
+    "Tuo Zaafi",
+    "Shito",
+    "Bofrot"
+   ],
+   "Senegal": [
+    "Thieboudienne",
+    "Yassa Poulet",
+    "Yassa Poisson",
+    "Mafé",
+    "Ceebu Jen",
+    "Pastels",
+    "Fataya",
+    "Thiakry"
+   ],
+   "Mali": [
+    "Tiguadege Na",
+    "Mafé",
+    "Tô",
+    "Riz au Gras",
+    "Fakoye",
+    "Capitaine Fish"
+   ],
+   "Côte d'Ivoire": [
+    "Attiéké",
+    "Alloco",
+    "Kedjenou",
+    "Fufu",
+    "Garba",
+    "Foutou",
+    "Sauce Graine",
+    "Poulet Braisé",
+    "Placali"
+   ],
+   "Guinea": [
+    "Poulet Yassa",
+    "Mafé",
+    "Riz au Gras",
+    "Foufou"
+   ],
+   "Sierra Leone": [
+    "Cassava Leaf Stew",
+    "Groundnut Stew",
+    "Jollof",
+    "Krain Krain",
+    "Plasas",
+    "Akara"
+   ],
+   "Liberia": [
+    "Jollof",
+    "Cassava Leaf",
+    "Palm Butter Soup",
+    "Dumboy",
+    "Fufu",
+    "GB Soup"
+   ],
+   "Gambia": [
+    "Domoda",
+    "Benachin",
+    "Yassa",
+    "Superkanja",
+    "Chere",
+    "Plasas"
+   ],
+   "Burkina Faso": [
+    "Tô",
+    "Riz Gras",
+    "Poulet Bicyclette",
+    "Babenda",
+    "Beignets"
+   ],
+   "Benin": [
+    "Amiwo",
+    "Akassa",
+    "Pâte",
+    "Ablo",
+    "Atassi",
+    "Igname Pilée"
+   ],
+   "Togo": [
+    "Fufu",
+    "Akoumé",
+    "Djenkoumé",
+    "Ablo",
+    "Ayimolou",
+    "Akpan"
+   ],
+   "Niger": [
+    "Tuwo",
+    "Dambou",
+    "Masa",
+    "Kilishi"
+   ],
+   "Cabo Verde": [
+    "Cachupa",
+    "Canja",
+    "Pastéis",
+    "Xerém",
+    "Feijoada"
+   ]
+  },
+  "Central Africa": {
+   "Cameroon": [
+    "Ndolé",
+    "Poulet DG",
+    "Eru",
+    "Achu",
+    "Koki",
+    "Mbongo Tchobi",
+    "Okok",
+    "Nkui",
+    "Suya"
+   ],
+   "DR Congo": [
+    "Fufu",
+    "Moambe Chicken",
+    "Pondu",
+    "Saka-Saka",
+    "Liboke",
+    "Chikwanga",
+    "Sambaza"
+   ],
+   "Republic of Congo": [
+    "Moambe",
+    "Saka-Saka",
+    "Fufu",
+    "Poulet à la Moambé",
+    "Makayabu",
+    "Ntaba"
+   ],
+   "Gabon": [
+    "Poulet Nyembwe",
+    "Moambe",
+    "Odika",
+    "Fish Stews"
+   ],
+   "Angola": [
+    "Muamba de Galinha",
+    "Calulu",
+    "Funge",
+    "Pirão",
+    "Mufete",
+    "Cabidela"
+   ],
+   "São Tomé & Príncipe": [
+    "Calulu",
+    "Fish Stew",
+    "Chicken Stew"
+   ],
+   "Chad": [
+    "Kisra",
+    "Daraba",
+    "Aseeda",
+    "Boule"
+   ],
+   "Central African Republic": [
+    "Fufu",
+    "Kanda",
+    "Peanut Stew",
+    "Cassava Leaf Dishes"
+   ]
+  },
+  "North Africa": {
+   "Egypt": [
+    "Koshari",
+    "Ful Medames",
+    "Molokhia",
+    "Fatta",
+    "Mahshi",
+    "Ta'ameya",
+    "Hawawshi",
+    "Basbousa",
+    "Kunafa"
+   ],
+   "Morocco": [
+    "Tagine",
+    "Couscous",
+    "Pastilla",
+    "Harira",
+    "Rfissa",
+    "Zaalouk",
+    "Msemen",
+    "Baghrir"
+   ],
+   "Algeria": [
+    "Couscous",
+    "Chakhchoukha",
+    "Rechta",
+    "Chorba",
+    "Tajine Zitoune",
+    "Merguez",
+    "Makroud"
+   ],
+   "Tunisia": [
+    "Couscous",
+    "Brik",
+    "Lablabi",
+    "Shakshuka",
+    "Ojja",
+    "Mechouia Salad"
+   ],
+   "Libya": [
+    "Bazeen",
+    "Couscous",
+    "Shakshuka",
+    "Asida",
+    "Mbakbaka"
+   ],
+   "Sudan": [
+    "Ful Medames",
+    "Kisra",
+    "Aseeda",
+    "Gourrassa",
+    "Shaiyah"
+   ]
+  },
+  "Southern Africa": {
+   "South Africa": [
+    "Bobotie",
+    "Bunny Chow",
+    "Boerewors",
+    "Pap",
+    "Chakalaka",
+    "Potjiekos",
+    "Vetkoek",
+    "Biltong",
+    "Gatsby",
+    "Sosaties",
+    "Cape Malay Curry",
+    "Samp & Beans",
+    "Umngqusho"
+   ],
+   "Zimbabwe": [
+    "Sadza",
+    "Dovi",
+    "Muriwo",
+    "Mopane Worms",
+    "Mutakura",
+    "Kapenta",
+    "Maheu"
+   ],
+   "Zambia": [
+    "Nshima",
+    "Ifisashi",
+    "Chikanda",
+    "Kapenta",
+    "Village Chicken"
+   ],
+   "Malawi": [
+    "Nsima",
+    "Chambo",
+    "Ndiwo",
+    "Usipa",
+    "Kondowole"
+   ],
+   "Mozambique": [
+    "Matapa",
+    "Piri-Piri Chicken",
+    "Peri-Peri Prawns",
+    "Xima",
+    "Chamussas"
+   ],
+   "Botswana": [
+    "Seswaa",
+    "Bogobe",
+    "Vetkoek",
+    "Morogo",
+    "Phane"
+   ],
+   "Namibia": [
+    "Kapana",
+    "Oshifima",
+    "Potjiekos",
+    "Omajowa",
+    "Biltong"
+   ],
+   "Lesotho": [
+    "Papa",
+    "Moroho",
+    "Motoho",
+    "Likahare"
+   ],
+   "Eswatini": [
+    "Sishwala",
+    "Emasi",
+    "Incwancwa",
+    "Sidvudvu"
+   ]
+  },
+  "Indian Ocean / Island Africa": {
+   "Madagascar": [
+    "Romazava",
+    "Ravitoto",
+    "Akoho sy Voanio",
+    "Vary Amin'anana",
+    "Mofo Gasy",
+    "Koba"
+   ],
+   "Mauritius": [
+    "Dholl Puri",
+    "Rougaille",
+    "Mine Frit",
+    "Gateaux Piments",
+    "Briani",
+    "Farata"
+   ],
+   "Seychelles": [
+    "Fish Curry",
+    "Octopus Curry",
+    "Ladob",
+    "Satini"
+   ],
+   "Comoros": [
+    "Langouste à la Vanille",
+    "Coconut Fish Curry",
+    "Pilao",
+    "Mkatra Foutra"
+   ]
+  }
+ },
+ "recipes": {
+  "Kenya::Sukuma Wiki": {
+   "ingredients": [
+    "2 bunches sukuma wiki (collard greens)",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "2 tbsp cooking oil",
+    "Salt",
+    "Optional: garlic, beef or stock cube"
+   ],
+   "steps": [
+    "Wash and finely slice the sukuma wiki.",
+    "Heat oil and sauté onion until soft.",
+    "Add tomatoes and cook until they break down.",
+    "Add sukuma wiki and salt.",
+    "Stir-fry for 5-10 minutes until tender but still green.",
+    "Serve with ugali, rice or chapati."
+   ]
+  },
+  "Kenya::Kenyan Pilau": {
+   "ingredients": [
+    "2 cups basmati rice",
+    "500 g beef or chicken",
+    "2 onions",
+    "3 tbsp oil",
+    "2 cloves garlic",
+    "1 tbsp ginger",
+    "2 tbsp pilau masala",
+    "1 cinnamon stick",
+    "4 cardamom pods",
+    "4 cloves",
+    "1 tsp cumin",
+    "4 cups beef/chicken stock",
+    "Salt"
+   ],
+   "steps": [
+    "Brown the meat in oil and set aside.",
+    "Fry onions until deeply golden brown.",
+    "Add garlic, ginger and whole spices.",
+    "Add pilau masala and fry briefly.",
+    "Return the meat and add stock.",
+    "Bring to a boil.",
+    "Add washed rice, reduce heat and cover.",
+    "Cook until rice absorbs the liquid and becomes tender.",
+    "Rest for 10 minutes before fluffing."
+   ]
+  },
+  "Kenya::Chapati": {
+   "ingredients": [
+    "3 cups wheat flour",
+    "1½ cups warm water",
+    "1 tsp salt",
+    "3 tbsp oil",
+    "Extra flour for rolling"
+   ],
+   "steps": [
+    "Mix flour and salt.",
+    "Gradually add warm water and knead into a soft dough.",
+    "Knead for 8-10 minutes.",
+    "Add oil and knead again.",
+    "Rest for 30 minutes.",
+    "Divide into balls and roll each out.",
+    "Spread with oil, fold/coil, rest briefly and roll again.",
+    "Cook on a hot pan, brushing lightly with oil, until golden spots appear on both sides."
+   ]
+  },
+  "Kenya::Mukimo": {
+   "ingredients": [
+    "4 potatoes, peeled",
+    "2 cups maize",
+    "2 cups peas",
+    "2 handfuls pumpkin leaves or spinach",
+    "Salt",
+    "2 tbsp butter or oil"
+   ],
+   "steps": [
+    "Boil maize until tender.",
+    "Add potatoes and peas and cook until soft.",
+    "Add chopped greens near the end.",
+    "Drain excess water.",
+    "Mash everything together.",
+    "Add salt and butter/oil.",
+    "Mix until smooth but slightly textured."
+   ]
+  },
+  "Kenya::Githeri": {
+   "ingredients": [
+    "2 cups cooked maize",
+    "2 cups cooked beans",
+    "1 onion",
+    "2 tomatoes",
+    "2 tbsp oil",
+    "Salt",
+    "Optional: potatoes, carrots, beef or avocado"
+   ],
+   "steps": [
+    "Fry onion in oil.",
+    "Add tomatoes and cook into a sauce.",
+    "Add maize and beans.",
+    "Add a little water and season.",
+    "Simmer for 15-20 minutes.",
+    "Add potatoes or other vegetables if desired."
+   ]
+  },
+  "Kenya::Irio": {
+   "ingredients": [
+    "Potatoes",
+    "Cooked maize",
+    "Cooked peas",
+    "Pumpkin leaves or spinach",
+    "Salt",
+    "Butter"
+   ],
+   "steps": [
+    "Boil potatoes until soft.",
+    "Add cooked peas, maize and greens.",
+    "Drain.",
+    "Mash everything together.",
+    "Add salt and butter.",
+    "Serve hot."
+   ]
+  },
+  "Kenya::Maharagwe": {
+   "ingredients": [
+    "3 cups cooked red/kidney beans",
+    "1 onion",
+    "2 tomatoes",
+    "1 cup coconut milk",
+    "2 tbsp oil",
+    "1 tsp curry powder",
+    "Salt",
+    "Garlic and coriander"
+   ],
+   "steps": [
+    "Fry onion and garlic.",
+    "Add tomatoes and curry powder.",
+    "Cook until thick.",
+    "Add beans and coconut milk.",
+    "Simmer for 15-20 minutes.",
+    "Season and garnish with coriander."
+   ]
+  },
+  "Kenya::Mandazi": {
+   "ingredients": [
+    "3 cups flour",
+    "½ cup sugar",
+    "1 tsp baking powder",
+    "½ tsp cardamom",
+    "1 cup milk or water",
+    "2 tbsp oil",
+    "Oil for deep frying"
+   ],
+   "steps": [
+    "Mix flour, sugar, baking powder and cardamom.",
+    "Add milk and oil.",
+    "Knead into a soft dough.",
+    "Rest for 20-30 minutes.",
+    "Roll and cut into triangles or squares.",
+    "Deep-fry over medium heat until golden.",
+    "Drain on paper towels."
+   ]
+  },
+  "Kenya::Samosa": {
+   "ingredients": [
+    "300 g minced beef",
+    "1 onion",
+    "2 cloves garlic",
+    "Coriander",
+    "1 tsp cumin",
+    "Salt",
+    "Pepper",
+    "Samosa pastry sheets"
+   ],
+   "steps": [
+    "Cook the minced meat with onion, garlic and spices.",
+    "Allow the filling to cool.",
+    "Fill samosa pastry sheets.",
+    "Seal with flour-water paste.",
+    "Deep-fry until crisp and golden."
+   ]
+  },
+  "Kenya::Mutura": {
+   "ingredients": [
+    "Goat/beef intestines, thoroughly cleaned",
+    "500 g minced meat",
+    "200 g chopped offal/blood mixture",
+    "Onion",
+    "Garlic",
+    "Coriander",
+    "Salt",
+    "Black pepper",
+    "Chili"
+   ],
+   "steps": [
+    "Thoroughly clean the casing.",
+    "Mix meat, offal/blood mixture, onion and seasonings.",
+    "Stuff the casing without overfilling.",
+    "Tie into sections.",
+    "Boil until cooked through.",
+    "Grill or roast until browned.",
+    "Slice and serve."
+   ]
+  },
+  "Kenya::Biriani": {
+   "ingredients": [
+    "2 cups basmati rice",
+    "500 g beef/chicken",
+    "2 onions",
+    "1 cup yogurt",
+    "Garlic and ginger",
+    "Biryani spices",
+    "Cinnamon, cardamom and cloves",
+    "Tomatoes",
+    "Oil",
+    "Salt",
+    "Saffron/turmeric",
+    "Coriander"
+   ],
+   "steps": [
+    "Marinate meat with yogurt, ginger, garlic and spices.",
+    "Fry onions until golden.",
+    "Cook the meat with tomatoes and spices until tender.",
+    "Parboil the rice separately.",
+    "Layer rice and meat, adding fried onions and saffron/turmeric.",
+    "Cover tightly and steam on low heat for 20-25 minutes.",
+    "Fluff gently before serving."
+   ]
+  },
+  "Kenya::Mishikaki": {
+   "ingredients": [
+    "500 g beef or chicken",
+    "1 onion",
+    "2 tomatoes",
+    "Garlic",
+    "Ginger",
+    "Lemon juice",
+    "Oil",
+    "Salt",
+    "Black pepper",
+    "Chili/paprika"
+   ],
+   "steps": [
+    "Cut meat into bite-sized pieces.",
+    "Mix with all seasonings and marinate for at least 1 hour.",
+    "Thread onto skewers.",
+    "Grill over charcoal or high heat.",
+    "Turn regularly until browned and cooked through.",
+    "Serve hot with kachumbari or dipping sauce."
+   ]
+  },
+  "Tanzania::Chipsi Mayai": {
+   "ingredients": [
+    "3 potatoes",
+    "3 eggs",
+    "1 onion",
+    "Oil",
+    "Salt",
+    "Pepper"
+   ],
+   "steps": [
+    "Cut potatoes into chips and fry until nearly crisp.",
+    "Beat eggs with salt and pepper.",
+    "Add chips to a hot oiled pan.",
+    "Pour eggs over them.",
+    "Cook until the bottom sets.",
+    "Flip carefully and cook the other side.",
+    "Serve with kachumbari or chili sauce."
+   ]
+  },
+  "Tanzania::Zanzibar Biryani": {
+   "ingredients": [
+    "Basmati rice",
+    "Strongly spiced meat",
+    "Potatoes",
+    "Fried onions",
+    "Cardamom, cloves, cinnamon",
+    "Saffron/turmeric"
+   ],
+   "steps": [
+    "Marinate and cook meat with strong spices until tender.",
+    "Fry onions until golden.",
+    "Parboil rice with whole spices.",
+    "Layer rice over the meat with fried onions and saffron/turmeric.",
+    "Cover tightly and steam until fragrant and tender."
+   ]
+  },
+  "Tanzania::Zanzibar Pizza": {
+   "ingredients": [
+    "Wheat dough",
+    "Minced beef",
+    "Onion",
+    "Tomato",
+    "Egg",
+    "Green pepper",
+    "Salt and pepper",
+    "Oil"
+   ],
+   "steps": [
+    "Prepare a very thin elastic dough.",
+    "Place it on an oiled hot surface.",
+    "Add minced meat, onion, tomato and pepper.",
+    "Crack an egg over the filling.",
+    "Fold the dough around the filling into a square.",
+    "Fry until golden on both sides.",
+    "Serve hot."
+   ]
+  },
+  "Tanzania::Octopus Curry": {
+   "ingredients": [
+    "1 kg cleaned octopus",
+    "1 onion",
+    "2 tomatoes",
+    "Coconut milk",
+    "Garlic",
+    "Ginger",
+    "Curry powder",
+    "Turmeric",
+    "Chili",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Simmer octopus until tender.",
+    "Cut into pieces.",
+    "Fry onion, garlic and ginger.",
+    "Add tomatoes and spices.",
+    "Add octopus.",
+    "Pour in coconut milk.",
+    "Simmer for 15-20 minutes.",
+    "Serve with rice or chapati."
+   ]
+  },
+  "Tanzania::Mtori": {
+   "ingredients": [
+    "500 g beef/goat meat",
+    "4 green bananas or plantains",
+    "1 onion",
+    "2 tomatoes",
+    "Garlic",
+    "Ginger",
+    "Milk or coconut milk",
+    "Salt"
+   ],
+   "steps": [
+    "Boil meat until tender.",
+    "Add peeled green bananas.",
+    "Add onion, tomatoes, garlic and ginger.",
+    "Simmer until bananas are soft.",
+    "Add milk/coconut milk.",
+    "Season and simmer briefly."
+   ]
+  },
+  "Tanzania::Mandazi": {
+   "ingredients": [
+    "3 cups flour",
+    "½ cup sugar",
+    "1 tsp baking powder",
+    "½ tsp cardamom",
+    "1 cup milk or water",
+    "Oil for deep frying"
+   ],
+   "steps": [
+    "Mix dry ingredients and cardamom.",
+    "Add milk and oil, knead into a soft dough.",
+    "Rest for 20-30 minutes.",
+    "Roll and cut into shapes.",
+    "Deep-fry until golden and drain."
+   ]
+  },
+  "Tanzania::Vitumbua": {
+   "ingredients": [
+    "2 cups rice flour",
+    "½ cup coconut milk",
+    "½ cup sugar",
+    "1 tsp yeast",
+    "Cardamom",
+    "Warm water",
+    "Oil"
+   ],
+   "steps": [
+    "Mix rice flour, yeast, sugar and cardamom.",
+    "Add coconut milk and enough warm water for a thick batter.",
+    "Allow to ferment for several hours.",
+    "Heat a vitumbua pan and lightly oil it.",
+    "Pour batter into the cavities.",
+    "Cook until golden, turning as needed."
+   ]
+  },
+  "Tanzania::Urojo (Zanzibar Mix)": {
+   "ingredients": [
+    "Potatoes",
+    "Gram flour",
+    "Coconut milk",
+    "Mango",
+    "Chili",
+    "Lime",
+    "Boiled eggs",
+    "Cassava or bhajias",
+    "Spices"
+   ],
+   "steps": [
+    "Make a tangy coconut/gram-flour soup.",
+    "Cook potatoes separately.",
+    "Prepare bhajias or other fritters.",
+    "Place potatoes, fritters and egg in a bowl.",
+    "Pour over the soup.",
+    "Add mango, chili and lime.",
+    "Serve immediately."
+   ]
+  },
+  "Uganda::Luwombo": {
+   "ingredients": [
+    "1 kg chicken, beef or goat",
+    "2 onions",
+    "3 tomatoes",
+    "Groundnut paste",
+    "Garlic",
+    "Ginger",
+    "Mushrooms/vegetables",
+    "Banana leaves",
+    "Salt"
+   ],
+   "steps": [
+    "Season and lightly brown the meat.",
+    "Make a sauce with onion, tomato, garlic and groundnut paste.",
+    "Place meat and sauce inside softened banana leaves.",
+    "Wrap tightly.",
+    "Steam for 1-2 hours.",
+    "Serve with matoke, rice or posho."
+   ]
+  },
+  "Uganda::Posho": {
+   "ingredients": [
+    "2 cups maize flour",
+    "3-4 cups water"
+   ],
+   "steps": [
+    "Bring water to a boil.",
+    "Gradually add maize flour while stirring continuously.",
+    "Keep stirring until smooth and thick.",
+    "Cook on low heat for 10-15 minutes.",
+    "Shape and serve with stew."
+   ]
+  },
+  "Uganda::Rolex": {
+   "ingredients": [
+    "Chapati",
+    "2 eggs",
+    "Tomato",
+    "Onion",
+    "Cabbage",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Beat eggs with chopped vegetables and salt.",
+    "Fry as an omelette.",
+    "Place omelette on a chapati.",
+    "Roll tightly.",
+    "Serve hot."
+   ]
+  },
+  "Uganda::Katogo": {
+   "ingredients": [
+    "Green bananas/matoke",
+    "Beef, offal or beans",
+    "Onion",
+    "Tomatoes",
+    "Garlic",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Fry onion and tomatoes.",
+    "Add meat and cook until tender.",
+    "Add peeled matoke.",
+    "Add water and season.",
+    "Cover and simmer until bananas are soft.",
+    "Mash slightly if desired."
+   ]
+  },
+  "Uganda::Groundnut Stew": {
+   "ingredients": [
+    "1 cup groundnut/peanut paste",
+    "500 g chicken/beef or vegetables",
+    "Onion",
+    "Tomatoes",
+    "Garlic",
+    "Ginger",
+    "Chili",
+    "Salt",
+    "Water/stock"
+   ],
+   "steps": [
+    "Fry onion, garlic and ginger.",
+    "Add tomatoes.",
+    "Add meat and brown.",
+    "Mix groundnut paste with water and add.",
+    "Simmer until thick and meat is tender.",
+    "Serve with matoke, rice or posho."
+   ]
+  },
+  "Uganda::Muchomo": {
+   "ingredients": [
+    "Goat, beef or chicken",
+    "Salt",
+    "Garlic",
+    "Ginger",
+    "Lemon",
+    "Black pepper",
+    "Chili"
+   ],
+   "steps": [
+    "Cut meat into large pieces.",
+    "Marinate with seasonings.",
+    "Grill over charcoal.",
+    "Turn regularly until cooked and charred.",
+    "Serve with roasted plantain, salad or dipping sauce."
+   ]
+  },
+  "Uganda::Kikomando": {
+   "ingredients": [
+    "Chapati",
+    "Cooked beans",
+    "Onion",
+    "Tomatoes",
+    "Oil",
+    "Salt",
+    "Chili"
+   ],
+   "steps": [
+    "Tear chapati into small pieces.",
+    "Fry onion and tomatoes.",
+    "Add cooked beans.",
+    "Add chapati pieces.",
+    "Mix and cook for several minutes.",
+    "Serve hot."
+   ]
+  },
+  "Uganda::Malewa": {
+   "ingredients": [
+    "Smoked bamboo shoots",
+    "Groundnut paste",
+    "Onion",
+    "Tomatoes",
+    "Salt",
+    "Water"
+   ],
+   "steps": [
+    "Soak and boil the smoked bamboo shoots until tender.",
+    "Fry onion and tomatoes.",
+    "Add groundnut paste and water.",
+    "Add the bamboo shoots.",
+    "Simmer until thick and well combined.",
+    "Serve with posho or matoke."
+   ]
+  },
+  "Rwanda::Ubugali": {
+   "ingredients": [
+    "Cassava, maize or sorghum flour",
+    "Water"
+   ],
+   "steps": [
+    "Boil water.",
+    "Gradually add flour while stirring.",
+    "Continue stirring until very thick.",
+    "Cook for several minutes.",
+    "Shape into portions and serve with stew."
+   ]
+  },
+  "Rwanda::Isombe": {
+   "ingredients": [
+    "Cassava leaves, finely pounded",
+    "Groundnut paste",
+    "Onion",
+    "Garlic",
+    "Meat or fish, optional",
+    "Palm/vegetable oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cook cassava leaves thoroughly.",
+    "Fry onion and garlic.",
+    "Add groundnut paste.",
+    "Add the cassava leaves.",
+    "Add meat/fish if using.",
+    "Simmer until thick and tender."
+   ]
+  },
+  "Rwanda::Brochettes": {
+   "ingredients": [
+    "Beef, goat or chicken",
+    "Onion",
+    "Bell pepper",
+    "Tomato",
+    "Garlic",
+    "Oil",
+    "Salt",
+    "Pepper"
+   ],
+   "steps": [
+    "Cut meat into cubes.",
+    "Marinate with spices and oil.",
+    "Thread onto skewers with vegetables.",
+    "Grill over charcoal until cooked and lightly charred.",
+    "Serve hot."
+   ]
+  },
+  "Rwanda::Ibihaza": {
+   "ingredients": [
+    "Pumpkin",
+    "Beans",
+    "Onion",
+    "Tomatoes",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Peel and cube pumpkin.",
+    "Cook beans until tender.",
+    "Fry onion and tomatoes.",
+    "Add pumpkin and beans.",
+    "Add a little water and simmer until pumpkin is soft.",
+    "Season and serve."
+   ]
+  },
+  "Rwanda::Umutsima": {
+   "ingredients": [
+    "Cassava flour",
+    "Maize/sorghum flour",
+    "Water"
+   ],
+   "steps": [
+    "Boil water.",
+    "Add flour gradually while stirring.",
+    "Add prepared cassava mash/flour.",
+    "Stir vigorously until smooth and firm.",
+    "Cook covered on low heat.",
+    "Serve with meat or vegetable stew."
+   ]
+  },
+  "Rwanda::Sambaza": {
+   "ingredients": [
+    "Small freshwater fish (sambaza)",
+    "Lemon",
+    "Garlic",
+    "Salt",
+    "Pepper",
+    "Flour",
+    "Oil"
+   ],
+   "steps": [
+    "Clean and season the fish.",
+    "Coat lightly in flour.",
+    "Deep-fry until crisp and golden.",
+    "Drain excess oil.",
+    "Serve with lemon and a dipping sauce."
+   ]
+  },
+  "Burundi::Ubugali": {
+   "ingredients": [
+    "Cassava, maize or sorghum flour",
+    "Water"
+   ],
+   "steps": [
+    "Boil water.",
+    "Gradually stir in flour.",
+    "Continue stirring until firm and smooth.",
+    "Cook for several minutes.",
+    "Shape and serve with stew."
+   ]
+  },
+  "Burundi::Boko-boko Harees": {
+   "ingredients": [
+    "Wheat or cracked wheat",
+    "Chicken or beef",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Salt",
+    "Water/stock"
+   ],
+   "steps": [
+    "Cook meat until very tender.",
+    "Add washed cracked wheat.",
+    "Add stock and simmer slowly.",
+    "Stir frequently until the wheat breaks down into a thick porridge.",
+    "Shred the meat into the mixture.",
+    "Season and serve hot."
+   ]
+  },
+  "Burundi::Mukeke": {
+   "ingredients": [
+    "Fresh mukeke fish",
+    "Onion",
+    "Tomatoes",
+    "Garlic",
+    "Ginger",
+    "Lemon",
+    "Oil",
+    "Salt",
+    "Chili"
+   ],
+   "steps": [
+    "Clean and season the fish.",
+    "Fry or grill until browned.",
+    "Prepare a tomato, onion and spice sauce.",
+    "Add the fish.",
+    "Simmer gently until cooked through.",
+    "Serve with rice, ugali or vegetables."
+   ]
+  },
+  "Burundi::Isombe": {
+   "ingredients": [
+    "Cassava leaves, pounded",
+    "Groundnut paste",
+    "Onion",
+    "Garlic",
+    "Meat/fish, optional",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Thoroughly cook pounded cassava leaves.",
+    "Simmer with groundnut paste, onion, garlic and optional meat/fish until thick."
+   ]
+  },
+  "Burundi::Brochettes": {
+   "ingredients": [
+    "Beef/goat/chicken",
+    "Onion",
+    "Pepper",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cube seasoned beef/goat/chicken.",
+    "Thread onto skewers with onion and pepper.",
+    "Charcoal-grill until cooked and browned."
+   ]
+  },
+  "Ethiopia::Injera": {
+   "ingredients": [
+    "Teff flour",
+    "Water",
+    "Starter/fermentation culture"
+   ],
+   "steps": [
+    "Mix teff flour and water.",
+    "Allow the batter to ferment for 1-3 days.",
+    "Add additional water to reach a pourable consistency.",
+    "Pour onto a hot non-stick or traditional mitad in a spiral.",
+    "Cover and cook until the surface develops bubbles and dries.",
+    "Remove without flipping."
+   ]
+  },
+  "Ethiopia::Tibs": {
+   "ingredients": [
+    "500 g beef/lamb",
+    "Onion",
+    "Tomato",
+    "Green pepper",
+    "Garlic",
+    "Ginger",
+    "Berbere",
+    "Niter kibbeh or butter",
+    "Salt"
+   ],
+   "steps": [
+    "Cut meat into small pieces.",
+    "Heat butter and sauté onion.",
+    "Add meat and cook over high heat.",
+    "Add garlic, ginger and berbere.",
+    "Add tomato and green pepper.",
+    "Cook until meat is tender but browned.",
+    "Serve with injera."
+   ]
+  },
+  "Ethiopia::Kitfo": {
+   "ingredients": [
+    "Very fresh minced beef",
+    "Niter kibbeh",
+    "Mitmita",
+    "Salt",
+    "Optional: ayib cheese"
+   ],
+   "steps": [
+    "Mix minced beef with warm spiced butter.",
+    "Add mitmita and salt.",
+    "Traditionally serve raw, lightly cooked or fully cooked according to preference and food-safety considerations.",
+    "Serve with injera and ayib."
+   ]
+  },
+  "Ethiopia::Shiro": {
+   "ingredients": [
+    "Shiro powder",
+    "Onion",
+    "Garlic",
+    "Tomato",
+    "Berbere",
+    "Oil/niter kibbeh",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Fry onion in oil.",
+    "Add garlic and tomato.",
+    "Add berbere.",
+    "Mix shiro powder with water to prevent lumps.",
+    "Add to the pot.",
+    "Simmer while stirring until thick and smooth.",
+    "Serve with injera."
+   ]
+  },
+  "Ethiopia::Misir Wat": {
+   "ingredients": [
+    "Red lentils",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Berbere",
+    "Oil/niter kibbeh",
+    "Tomato",
+    "Salt"
+   ],
+   "steps": [
+    "Cook onions until soft.",
+    "Add garlic, ginger and berbere.",
+    "Add tomato.",
+    "Add washed lentils and water.",
+    "Simmer until lentils become soft and thick.",
+    "Finish with spiced butter if desired."
+   ]
+  },
+  "Ethiopia::Gomen": {
+   "ingredients": [
+    "Collard greens/kale",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Niter kibbeh",
+    "Salt",
+    "Chili"
+   ],
+   "steps": [
+    "Chop and boil greens briefly.",
+    "Drain.",
+    "Fry onion, garlic and ginger in spiced butter.",
+    "Add greens.",
+    "Cook until tender.",
+    "Season and serve with injera."
+   ]
+  },
+  "Ethiopia::Firfir": {
+   "ingredients": [
+    "Torn injera",
+    "Berbere",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Niter kibbeh",
+    "Salt"
+   ],
+   "steps": [
+    "Fry onion and garlic.",
+    "Add tomato and berbere.",
+    "Add a little water and simmer.",
+    "Tear injera into pieces.",
+    "Mix into the sauce.",
+    "Add butter and serve warm."
+   ]
+  },
+  "Ethiopia::Beyaynetu": {
+   "ingredients": [
+    "Misir wat",
+    "Shiro",
+    "Gomen",
+    "Atakilt wat",
+    "Kik alicha",
+    "Salad",
+    "Injera"
+   ],
+   "steps": [
+    "Prepare several Ethiopian dishes such as misir wat, shiro, gomen, atakilt wat, kik alicha and salad.",
+    "Arrange them around a large piece of injera.",
+    "Serve communally."
+   ]
+  },
+  "Ethiopia::Genfo": {
+   "ingredients": [
+    "Barley, wheat or corn flour",
+    "Water",
+    "Salt",
+    "Niter kibbeh",
+    "Berbere"
+   ],
+   "steps": [
+    "Boil salted water.",
+    "Gradually add flour while stirring vigorously.",
+    "Cook until extremely thick and smooth.",
+    "Form a mound in a bowl.",
+    "Make a well in the center.",
+    "Fill with melted spiced butter and berbere."
+   ]
+  },
+  "Eritrea::Zigni": {
+   "ingredients": [
+    "Beef",
+    "Onion",
+    "Tomato",
+    "Garlic",
+    "Ginger",
+    "Berbere",
+    "Niter kibbeh/oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cook onions until deeply softened.",
+    "Add garlic, ginger and berbere.",
+    "Add tomato.",
+    "Add beef and water.",
+    "Simmer slowly until tender.",
+    "Serve with injera."
+   ]
+  },
+  "Eritrea::Tsebhi": {
+   "ingredients": [
+    "Meat",
+    "Onion",
+    "Tomatoes",
+    "Berbere or turmeric",
+    "Spices"
+   ],
+   "steps": [
+    "Cook meat, onions, tomatoes and spices together, often with berbere or turmeric depending on the variety, until a thick stew forms."
+   ]
+  },
+  "Eritrea::Alicha": {
+   "ingredients": [
+    "Beef/chicken/lamb",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Turmeric",
+    "Green chili",
+    "Oil/niter kibbeh",
+    "Salt"
+   ],
+   "steps": [
+    "Fry onions.",
+    "Add meat and brown.",
+    "Add garlic, ginger and turmeric.",
+    "Add water and simmer until tender.",
+    "Add green chili.",
+    "Serve with injera."
+   ]
+  },
+  "Eritrea::Ga'at": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Niter kibbeh",
+    "Berbere"
+   ],
+   "steps": [
+    "Cook flour with water into a thick porridge.",
+    "Serve with a central well containing spiced butter and berbere."
+   ]
+  },
+  "Eritrea::Tibsi": {
+   "ingredients": [
+    "Meat, cubed",
+    "Onion",
+    "Garlic",
+    "Berbere",
+    "Peppers",
+    "Niter kibbeh"
+   ],
+   "steps": [
+    "Cut meat into cubes.",
+    "Fry in spiced butter with onion, garlic, berbere and peppers.",
+    "Cook until browned and tender."
+   ]
+  },
+  "Somalia::Canjeero": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Yeast",
+    "Sugar",
+    "Salt",
+    "Optional: fermented starter"
+   ],
+   "steps": [
+    "Mix into a thin batter.",
+    "Allow to ferment overnight.",
+    "Pour onto a hot pan in a circular motion.",
+    "Cook one side until bubbles form and the top dries.",
+    "Serve with stew, honey or tea."
+   ]
+  },
+  "Somalia::Suqaar": {
+   "ingredients": [
+    "Beef/chicken",
+    "Onion",
+    "Tomato",
+    "Bell pepper",
+    "Carrot",
+    "Garlic",
+    "Cumin",
+    "Coriander",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Cut meat into small cubes.",
+    "Brown in oil.",
+    "Add onion and garlic.",
+    "Add vegetables and spices.",
+    "Cook until meat is tender.",
+    "Serve with rice, canjeero or chapati."
+   ]
+  },
+  "Somalia::Sambusa": {
+   "ingredients": [
+    "Sambusa pastry",
+    "Minced beef or lentils",
+    "Onion",
+    "Garlic",
+    "Coriander",
+    "Cumin",
+    "Chili",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Cook the filling with spices.",
+    "Cool it.",
+    "Fill and fold pastry into triangles.",
+    "Seal.",
+    "Deep-fry until golden and crisp."
+   ]
+  },
+  "Somalia::Muufo": {
+   "ingredients": [
+    "Maize/corn flour",
+    "Wheat flour",
+    "Yeast",
+    "Water",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Mix into a soft dough/batter.",
+    "Allow to rise.",
+    "Shape into flat rounds.",
+    "Cook on a hot pan or griddle until browned and cooked through."
+   ]
+  },
+  "Somalia::Malawah": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Salt",
+    "Oil",
+    "Optional sugar"
+   ],
+   "steps": [
+    "Make a soft dough.",
+    "Roll extremely thin.",
+    "Spread generously with oil.",
+    "Fold repeatedly into layers.",
+    "Roll out again.",
+    "Fry on a hot pan until golden and flaky."
+   ]
+  },
+  "Somalia::Fah-fah": {
+   "ingredients": [
+    "Goat/beef meat",
+    "Water/stock",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Green chili",
+    "Coriander",
+    "Lemon",
+    "Salt",
+    "Cumin"
+   ],
+   "steps": [
+    "Boil meat until tender.",
+    "Add onion, garlic, ginger and spices.",
+    "Simmer until the broth is flavorful.",
+    "Add chili and coriander.",
+    "Finish with lemon.",
+    "Serve hot as a soup."
+   ]
+  },
+  "Nigeria::Pounded Yam": {
+   "ingredients": [
+    "Yam",
+    "Water"
+   ],
+   "steps": [
+    "Peel and cut yam into chunks.",
+    "Boil until very soft.",
+    "Pound while hot using a mortar and pestle, or blend/knead until completely smooth and stretchy.",
+    "Shape into balls and serve with soup."
+   ]
+  },
+  "Nigeria::Eba": {
+   "ingredients": [
+    "Garri",
+    "Boiling water"
+   ],
+   "steps": [
+    "Put garri in a bowl.",
+    "Pour boiling water over it.",
+    "Allow it to absorb the water for a minute.",
+    "Stir and knead until smooth and firm.",
+    "Serve with soup."
+   ]
+  },
+  "Nigeria::Amala": {
+   "ingredients": [
+    "Yam flour or plantain flour",
+    "Water"
+   ],
+   "steps": [
+    "Boil water.",
+    "Gradually add flour while stirring vigorously.",
+    "Continue stirring until smooth and lump-free.",
+    "Cook until thick and elastic.",
+    "Shape into portions and serve with stew or soup."
+   ]
+  },
+  "Nigeria::Okra Soup": {
+   "ingredients": [
+    "Okra",
+    "Beef/goat meat",
+    "Stockfish or dried fish",
+    "Palm oil",
+    "Onion",
+    "Pepper",
+    "Crayfish",
+    "Stock",
+    "Salt"
+   ],
+   "steps": [
+    "Boil meat until tender.",
+    "Add stockfish/dried fish.",
+    "Fry or simmer palm oil with onion and pepper.",
+    "Add chopped okra and meat stock.",
+    "Add meat and crayfish.",
+    "Cook briefly so the okra retains some texture.",
+    "Serve with eba, pounded yam or amala."
+   ]
+  },
+  "Nigeria::Moi Moi": {
+   "ingredients": [
+    "Soaked peeled beans",
+    "Onion",
+    "Red pepper",
+    "Vegetable oil",
+    "Stock",
+    "Salt",
+    "Optional boiled eggs/fish"
+   ],
+   "steps": [
+    "Blend beans, peppers and onion into a smooth batter.",
+    "Mix in oil and seasoning.",
+    "Add fillings if desired.",
+    "Pour into greased containers or leaves.",
+    "Steam for 45-60 minutes until firm."
+   ]
+  },
+  "Nigeria::Akara": {
+   "ingredients": [
+    "Peeled black-eyed beans",
+    "Onion",
+    "Pepper",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Soak and peel beans.",
+    "Blend with onion and pepper into a thick batter.",
+    "Beat the batter until light and fluffy.",
+    "Deep-fry spoonfuls until golden.",
+    "Drain and serve."
+   ]
+  },
+  "Nigeria::Isi Ewu": {
+   "ingredients": [
+    "Goat head",
+    "Palm oil",
+    "Utazi leaves",
+    "Onion",
+    "Ground crayfish",
+    "Pepper",
+    "Seasoning"
+   ],
+   "steps": [
+    "Thoroughly clean and boil goat head until tender.",
+    "Cut the meat into pieces.",
+    "Mix palm oil with spices and seasonings.",
+    "Add meat and simmer briefly.",
+    "Finish with sliced utazi and onion."
+   ]
+  },
+  "Nigeria::Nkwobi": {
+   "ingredients": [
+    "Cow foot",
+    "Palm oil",
+    "Potash",
+    "Pepper",
+    "Onion",
+    "Utazi",
+    "Seasoning"
+   ],
+   "steps": [
+    "Boil cow foot until very tender.",
+    "Mix palm oil with dissolved edible potash.",
+    "Add pepper and seasoning.",
+    "Stir in the meat.",
+    "Simmer briefly.",
+    "Garnish with onion and utazi."
+   ]
+  },
+  "Nigeria::Asun": {
+   "ingredients": [
+    "Goat meat",
+    "Pepper",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Season and grill/roast goat meat.",
+    "Cut into small pieces.",
+    "Fry onion, garlic and plenty of chopped pepper.",
+    "Add goat meat.",
+    "Stir-fry until smoky and well coated."
+   ]
+  },
+  "Nigeria::Tuwo Shinkafa": {
+   "ingredients": [
+    "White rice",
+    "Water"
+   ],
+   "steps": [
+    "Cook rice with plenty of water until extremely soft.",
+    "Mash/stir vigorously.",
+    "Continue cooking until it becomes thick and smooth.",
+    "Shape into balls and serve with soup."
+   ]
+  },
+  "Nigeria::Efo Riro": {
+   "ingredients": [
+    "Spinach or African leafy greens",
+    "Assorted meat",
+    "Palm oil",
+    "Tomatoes",
+    "Red peppers",
+    "Onion",
+    "Crayfish",
+    "Seasoning"
+   ],
+   "steps": [
+    "Blend peppers, tomatoes and onion.",
+    "Fry the mixture in palm oil.",
+    "Add cooked meat and crayfish.",
+    "Add chopped greens.",
+    "Simmer until the vegetables are tender but not overcooked."
+   ]
+  },
+  "Nigeria::Chin Chin": {
+   "ingredients": [
+    "Flour",
+    "Sugar",
+    "Milk",
+    "Butter",
+    "Egg",
+    "Nutmeg",
+    "Oil"
+   ],
+   "steps": [
+    "Mix dry ingredients.",
+    "Add butter, milk and egg.",
+    "Knead into a firm dough.",
+    "Roll and cut into small pieces.",
+    "Deep-fry until golden."
+   ]
+  },
+  "Nigeria::Puff-Puff": {
+   "ingredients": [
+    "Flour",
+    "Yeast",
+    "Sugar",
+    "Warm water",
+    "Salt",
+    "Nutmeg",
+    "Oil"
+   ],
+   "steps": [
+    "Mix into a thick batter.",
+    "Allow to rise for 1-2 hours.",
+    "Scoop small portions into hot oil.",
+    "Fry until golden brown.",
+    "Drain."
+   ]
+  },
+  "Nigeria::Dodo": {
+   "ingredients": [
+    "Ripe plantains",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Peel and slice plantains.",
+    "Lightly salt.",
+    "Fry until golden brown on both sides.",
+    "Drain and serve."
+   ]
+  },
+  "Ghana::Jollof": {
+   "ingredients": [
+    "Rice",
+    "Tomatoes",
+    "Tomato paste",
+    "Onions",
+    "Peppers",
+    "Stock",
+    "Chicken/beef",
+    "Oil",
+    "Garlic",
+    "Ginger",
+    "Spices"
+   ],
+   "steps": [
+    "Blend tomatoes, peppers and onion.",
+    "Fry onion and tomato paste.",
+    "Add blended mixture and cook down.",
+    "Add spices and stock.",
+    "Add washed rice.",
+    "Cover tightly and cook on low heat until tender.",
+    "Add cooked meat if desired."
+   ]
+  },
+  "Ghana::Banku": {
+   "ingredients": [
+    "Corn dough",
+    "Cassava dough",
+    "Water"
+   ],
+   "steps": [
+    "Mix dough with water.",
+    "Strain if necessary.",
+    "Cook while stirring continuously.",
+    "As it thickens, knead/stir vigorously.",
+    "Cook until smooth and elastic.",
+    "Serve with soup, stew or grilled fish."
+   ]
+  },
+  "Ghana::Tilapia": {
+   "ingredients": [
+    "Whole tilapia",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Pepper",
+    "Lemon",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Clean and score the fish.",
+    "Rub with blended spices and lemon.",
+    "Marinate briefly.",
+    "Grill over charcoal or roast until cooked and slightly charred.",
+    "Serve with banku and pepper sauce."
+   ]
+  },
+  "Ghana::Kenkey": {
+   "ingredients": [
+    "Fermented corn dough",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Divide fermented dough.",
+    "Cook part of it into a thick porridge.",
+    "Mix back with the uncooked portion.",
+    "Wrap portions in corn husks.",
+    "Steam/boil until firm.",
+    "Serve with fish and pepper."
+   ]
+  },
+  "Ghana::Fufu": {
+   "ingredients": [
+    "Cassava",
+    "Plantain/yam"
+   ],
+   "steps": [
+    "Peel and boil the ingredients.",
+    "Pound together until smooth and stretchy.",
+    "Add small amounts of water if necessary.",
+    "Shape into balls.",
+    "Serve with soup."
+   ]
+  },
+  "Ghana::Light Soup": {
+   "ingredients": [
+    "Chicken/goat/fish",
+    "Tomatoes",
+    "Onion",
+    "Ginger",
+    "Garlic",
+    "Chili",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Blend tomatoes, onion, ginger and garlic.",
+    "Cook meat with the mixture.",
+    "Add water and chili.",
+    "Simmer until meat is tender.",
+    "Adjust seasoning.",
+    "Serve with fufu, rice or banku."
+   ]
+  },
+  "Ghana::Groundnut Soup": {
+   "ingredients": [
+    "Groundnut paste",
+    "Chicken/goat",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chili",
+    "Stock"
+   ],
+   "steps": [
+    "Cook meat until tender.",
+    "Prepare tomato-pepper base.",
+    "Add diluted groundnut paste.",
+    "Add meat and stock.",
+    "Simmer until rich and thick."
+   ]
+  },
+  "Ghana::Kontomire Stew": {
+   "ingredients": [
+    "Cocoyam leaves",
+    "Palm oil",
+    "Tomatoes",
+    "Onion",
+    "Pepper",
+    "Eggs",
+    "Fish or meat"
+   ],
+   "steps": [
+    "Steam or boil leaves until tender.",
+    "Chop finely.",
+    "Fry onion, tomato and pepper in palm oil.",
+    "Add leaves and fish.",
+    "Add boiled eggs.",
+    "Simmer until thick."
+   ]
+  },
+  "Ghana::Red-Red": {
+   "ingredients": [
+    "Black-eyed beans",
+    "Palm oil",
+    "Onion",
+    "Tomatoes",
+    "Plantain",
+    "Salt"
+   ],
+   "steps": [
+    "Boil beans until tender.",
+    "Fry onion and tomatoes in palm oil.",
+    "Add beans and simmer.",
+    "Fry ripe plantain separately.",
+    "Serve together."
+   ]
+  },
+  "Ghana::Kelewele": {
+   "ingredients": [
+    "Ripe plantains",
+    "Ginger",
+    "Chili",
+    "Cloves",
+    "Cinnamon",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Cut plantain into cubes.",
+    "Toss with spices and salt.",
+    "Deep-fry until caramelized and golden.",
+    "Serve hot."
+   ]
+  },
+  "Ghana::Tuo Zaafi": {
+   "ingredients": [
+    "Corn/maize flour",
+    "Cassava flour",
+    "Water"
+   ],
+   "steps": [
+    "Boil water.",
+    "Add flour gradually.",
+    "Stir vigorously.",
+    "Continue cooking until smooth and firm.",
+    "Shape into balls and serve with soup."
+   ]
+  },
+  "Ghana::Shito": {
+   "ingredients": [
+    "Dried chilies",
+    "Dried shrimp/fish",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Tomato paste",
+    "Oil",
+    "Spices"
+   ],
+   "steps": [
+    "Blend chilies, onion, garlic and ginger.",
+    "Fry slowly in oil.",
+    "Add tomato paste and dried seafood.",
+    "Cook over low heat until very dark and thick.",
+    "Cool and store in a clean container."
+   ]
+  },
+  "Ghana::Bofrot": {
+   "ingredients": [
+    "Flour",
+    "Yeast",
+    "Sugar",
+    "Nutmeg",
+    "Warm water",
+    "Oil"
+   ],
+   "steps": [
+    "Mix into a thick dough/batter.",
+    "Allow to rise.",
+    "Scoop pieces into hot oil.",
+    "Fry until golden."
+   ]
+  },
+  "Senegal::Yassa Poulet": {
+   "ingredients": [
+    "Chicken",
+    "Lots of onions",
+    "Lemon juice",
+    "Mustard",
+    "Garlic",
+    "Chili",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Marinate chicken with lemon, mustard and spices.",
+    "Grill or brown the chicken.",
+    "Slowly cook sliced onions until soft.",
+    "Add marinade and chicken.",
+    "Simmer until onions form a rich sauce.",
+    "Serve with rice."
+   ]
+  },
+  "Senegal::Yassa Poisson": {
+   "ingredients": [
+    "Fish (firm variety)",
+    "Lots of onions",
+    "Lemon juice",
+    "Mustard",
+    "Garlic",
+    "Chili",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Prepare similarly to Yassa Poulet, replacing chicken with fish, preferably a firm fish that can withstand grilling and simmering."
+   ]
+  },
+  "Senegal::Mafé": {
+   "ingredients": [
+    "Beef/chicken",
+    "Peanut butter",
+    "Tomatoes",
+    "Onion",
+    "Carrots",
+    "Potatoes",
+    "Chili",
+    "Stock"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Cook onion and tomato.",
+    "Add peanut butter diluted with stock.",
+    "Add vegetables and meat.",
+    "Simmer until thick and tender.",
+    "Serve with rice."
+   ]
+  },
+  "Senegal::Ceebu Jen": {
+   "ingredients": [
+    "Rice",
+    "Fish",
+    "Tomato",
+    "Onion",
+    "Cassava",
+    "Carrots",
+    "Cabbage",
+    "Eggplant",
+    "Chili",
+    "Tomato paste"
+   ],
+   "steps": [
+    "Stuff fish with herb/spice mixture.",
+    "Fry or simmer fish in tomato-onion sauce.",
+    "Add vegetables and cook until tender.",
+    "Remove vegetables and fish.",
+    "Cook rice in the remaining sauce.",
+    "Serve rice with fish and vegetables."
+   ]
+  },
+  "Senegal::Pastels": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Salt",
+    "Oil",
+    "Fish",
+    "Onion",
+    "Pepper",
+    "Parsley"
+   ],
+   "steps": [
+    "Make a soft dough.",
+    "Prepare seasoned fish filling.",
+    "Roll dough thin.",
+    "Fill and seal into small pastries.",
+    "Deep-fry until golden."
+   ]
+  },
+  "Senegal::Fataya": {
+   "ingredients": [
+    "Flour dough",
+    "Minced meat",
+    "Onion",
+    "Pepper"
+   ],
+   "steps": [
+    "Make flour dough.",
+    "Fill with seasoned minced meat, onion and pepper.",
+    "Fold and seal.",
+    "Deep-fry until crisp."
+   ]
+  },
+  "Senegal::Thiakry": {
+   "ingredients": [
+    "Millet couscous",
+    "Yogurt",
+    "Milk",
+    "Sugar",
+    "Vanilla",
+    "Nutmeg",
+    "Raisins"
+   ],
+   "steps": [
+    "Steam/cook millet couscous.",
+    "Cool.",
+    "Mix with sweetened yogurt and milk.",
+    "Add spices and raisins.",
+    "Chill before serving."
+   ]
+  },
+  "Mali::Tiguadege Na": {
+   "ingredients": [
+    "Meat",
+    "Peanut paste",
+    "Tomatoes",
+    "Onion",
+    "Carrots",
+    "Cabbage",
+    "Potatoes",
+    "Chili"
+   ],
+   "steps": [
+    "Brown meat with onion.",
+    "Add tomato and peanut paste.",
+    "Add water/stock.",
+    "Add vegetables.",
+    "Simmer until tender and thick.",
+    "Serve with rice."
+   ]
+  },
+  "Mali::Mafé": {
+   "ingredients": [
+    "Meat",
+    "Peanut paste",
+    "Tomato",
+    "Onion",
+    "Vegetables"
+   ],
+   "steps": [
+    "Prepare using meat, peanut paste, tomato, onion and vegetables, simmered until thick.",
+    "Serve with rice."
+   ]
+  },
+  "Mali::Tô": {
+   "ingredients": [
+    "Millet, sorghum or maize flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook flour in boiling water, stirring continuously until thick and smooth.",
+    "Shape into portions and serve with sauce."
+   ]
+  },
+  "Mali::Riz au Gras": {
+   "ingredients": [
+    "Rice",
+    "Beef/chicken",
+    "Tomato paste",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Vegetables",
+    "Stock"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Fry onion, garlic and tomato paste.",
+    "Add tomatoes and stock.",
+    "Add rice.",
+    "Cover and cook until rice absorbs the sauce.",
+    "Serve with meat and vegetables."
+   ]
+  },
+  "Mali::Fakoye": {
+   "ingredients": [
+    "Dried fakoye leaves",
+    "Meat",
+    "Onion",
+    "Chili",
+    "Spices",
+    "Oil"
+   ],
+   "steps": [
+    "Soak/wash leaves.",
+    "Cook meat with onion and spices.",
+    "Add leaves and water.",
+    "Simmer slowly until the sauce thickens.",
+    "Serve with a grain staple."
+   ]
+  },
+  "Mali::Capitaine Fish": {
+   "ingredients": [
+    "Nile perch",
+    "Lemon",
+    "Garlic",
+    "Onion",
+    "Pepper",
+    "Salt"
+   ],
+   "steps": [
+    "Season Nile perch with lemon, garlic, onion, pepper and salt.",
+    "Grill or fry until golden.",
+    "Serve with rice, vegetables or sauce."
+   ]
+  },
+  "Côte d'Ivoire::Attiéké": {
+   "ingredients": [
+    "Pre-made attiéké (fermented cassava couscous)",
+    "Whole fish",
+    "Onion",
+    "Tomatoes",
+    "Chili pepper",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Steam the attiéké according to package instructions until fluffy (if not pre-steamed).",
+    "Season and grill the whole fish until cooked through and charred.",
+    "Prepare a simple tomato-onion-chili relish.",
+    "Plate the attiéké alongside the grilled fish and top with the fresh relish.",
+    "Serve with a wedge of lime."
+   ]
+  },
+  "Côte d'Ivoire::Alloco": {
+   "ingredients": [
+    "Ripe plantain",
+    "Oil"
+   ],
+   "steps": [
+    "Slice ripe plantain and deep-fry until golden.",
+    "Serve with onion-tomato-pepper sauce and optionally grilled fish or chicken."
+   ]
+  },
+  "Côte d'Ivoire::Kedjenou": {
+   "ingredients": [
+    "Chicken",
+    "Onion",
+    "Tomatoes",
+    "Eggplant",
+    "Ginger",
+    "Garlic",
+    "Chili",
+    "Salt"
+   ],
+   "steps": [
+    "Place everything in a heavy pot.",
+    "Cover tightly.",
+    "Cook slowly without adding much water.",
+    "Shake/stir occasionally.",
+    "Cook until chicken is tender and the vegetables form a thick sauce."
+   ]
+  },
+  "Côte d'Ivoire::Fufu": {
+   "ingredients": [
+    "Cassava/plantain/yam"
+   ],
+   "steps": [
+    "Boil cassava/plantain/yam and pound until smooth and stretchy.",
+    "Serve with soup or stew."
+   ]
+  },
+  "Côte d'Ivoire::Garba": {
+   "ingredients": [
+    "Attiéké",
+    "Fried tuna",
+    "Onion",
+    "Tomato",
+    "Chili",
+    "Oil"
+   ],
+   "steps": [
+    "Steam or moisten attiéké.",
+    "Season and fry tuna.",
+    "Slice onion and tomato.",
+    "Serve together with chili and oil."
+   ]
+  },
+  "Côte d'Ivoire::Foutou": {
+   "ingredients": [
+    "Plantain, cassava or yam"
+   ],
+   "steps": [
+    "Boil plantain, cassava or yam.",
+    "Pound until smooth and stretchy.",
+    "Shape into balls and serve with sauce."
+   ]
+  },
+  "Côte d'Ivoire::Sauce Graine": {
+   "ingredients": [
+    "Palm fruit pulp",
+    "Meat/fish",
+    "Onion",
+    "Tomato",
+    "Chili",
+    "Spices"
+   ],
+   "steps": [
+    "Cook palm fruits and extract the pulp.",
+    "Cook meat separately.",
+    "Combine palm extract with meat.",
+    "Add tomato, onion and pepper.",
+    "Simmer until rich and thick."
+   ]
+  },
+  "Côte d'Ivoire::Poulet Braisé": {
+   "ingredients": [
+    "Chicken",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Pepper",
+    "Lemon",
+    "Spices"
+   ],
+   "steps": [
+    "Marinate chicken with onion, garlic, ginger, pepper, lemon and spices.",
+    "Grill over charcoal.",
+    "Turn regularly and baste.",
+    "Cook until browned and fully done."
+   ]
+  },
+  "Côte d'Ivoire::Placali": {
+   "ingredients": [
+    "Fermented cassava dough",
+    "Water"
+   ],
+   "steps": [
+    "Cook fermented cassava dough with water while stirring until it becomes a smooth, elastic paste.",
+    "Serve with palm-nut or fish sauce."
+   ]
+  },
+  "Guinea::Poulet Yassa": {
+   "ingredients": [
+    "Chicken",
+    "Lemon",
+    "Mustard",
+    "Garlic",
+    "Onion"
+   ],
+   "steps": [
+    "Marinate chicken in lemon, mustard, garlic and onion.",
+    "Grill it.",
+    "Simmer with slowly caramelized onions and the marinade.",
+    "Serve with rice."
+   ]
+  },
+  "Guinea::Mafé": {
+   "ingredients": [
+    "Meat",
+    "Peanut paste",
+    "Tomatoes",
+    "Onion",
+    "Vegetables"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Simmer with peanut paste, tomatoes, onion and vegetables until thick.",
+    "Serve with rice."
+   ]
+  },
+  "Guinea::Riz au Gras": {
+   "ingredients": [
+    "Meat",
+    "Tomato-onion sauce",
+    "Rice",
+    "Stock"
+   ],
+   "steps": [
+    "Cook browned meat in a tomato-onion sauce.",
+    "Add rice and stock.",
+    "Cook covered until the rice absorbs the sauce."
+   ]
+  },
+  "Guinea::Foufou": {
+   "ingredients": [
+    "Cassava, plantain or yam"
+   ],
+   "steps": [
+    "Boil cassava, plantain or yam.",
+    "Pound into a smooth dough.",
+    "Shape into balls and serve with soup."
+   ]
+  },
+  "Sierra Leone::Cassava Leaf Stew": {
+   "ingredients": [
+    "Cassava leaves",
+    "Beef/chicken",
+    "Palm oil",
+    "Onion",
+    "Pepper",
+    "Peanut butter",
+    "Stock",
+    "Dried fish"
+   ],
+   "steps": [
+    "Pound/blend cassava leaves finely.",
+    "Cook meat until tender.",
+    "Fry onion and pepper in palm oil.",
+    "Add leaves and stock.",
+    "Add peanut butter and dried fish.",
+    "Simmer slowly until thick and well cooked."
+   ]
+  },
+  "Sierra Leone::Groundnut Stew": {
+   "ingredients": [
+    "Meat",
+    "Tomato",
+    "Onion",
+    "Peanut paste",
+    "Spices"
+   ],
+   "steps": [
+    "Cook meat with tomato, onion and spices.",
+    "Add diluted peanut paste and simmer until thick."
+   ]
+  },
+  "Sierra Leone::Jollof": {
+   "ingredients": [
+    "Rice",
+    "Tomato paste",
+    "Tomato-pepper-onion mixture",
+    "Stock"
+   ],
+   "steps": [
+    "Fry tomato paste and blended tomato-pepper-onion mixture.",
+    "Add stock and rice.",
+    "Cook covered until tender."
+   ]
+  },
+  "Sierra Leone::Krain Krain": {
+   "ingredients": [
+    "Krain/okra-like leafy greens",
+    "Palm oil",
+    "Onion",
+    "Pepper",
+    "Fish"
+   ],
+   "steps": [
+    "Cook finely chopped krain/okra-like leafy greens with palm oil, onion, pepper and fish/meat until thick.",
+    "Serve with rice or fufu."
+   ]
+  },
+  "Sierra Leone::Plasas": {
+   "ingredients": [
+    "Pounded leafy vegetables",
+    "Palm oil",
+    "Meat/fish",
+    "Onion",
+    "Pepper",
+    "Seasoning"
+   ],
+   "steps": [
+    "Cook pounded leafy vegetables with palm oil, meat/fish, onion and pepper and seasoning until tender."
+   ]
+  },
+  "Sierra Leone::Akara": {
+   "ingredients": [
+    "Soaked black-eyed beans",
+    "Onion",
+    "Pepper",
+    "Oil"
+   ],
+   "steps": [
+    "Blend soaked black-eyed beans with onion and pepper.",
+    "Whip until light.",
+    "Deep-fry spoonfuls until golden."
+   ]
+  },
+  "Liberia::Jollof": {
+   "ingredients": [
+    "Rice",
+    "Tomato, pepper, onion and stock sauce",
+    "Meat or chicken, optional"
+   ],
+   "steps": [
+    "Cook rice in a rich tomato, pepper, onion and stock sauce, adding meat or chicken if desired."
+   ]
+  },
+  "Liberia::Cassava Leaf": {
+   "ingredients": [
+    "Cassava leaves",
+    "Palm oil",
+    "Meat/fish",
+    "Pepper",
+    "Seasonings"
+   ],
+   "steps": [
+    "Pound cassava leaves.",
+    "Cook slowly with palm oil, meat/fish, pepper and seasonings until tender and thick."
+   ]
+  },
+  "Liberia::Palm Butter Soup": {
+   "ingredients": [
+    "Palm fruit pulp",
+    "Meat/fish",
+    "Onion",
+    "Pepper",
+    "Garlic",
+    "Ginger",
+    "Stock"
+   ],
+   "steps": [
+    "Extract palm fruit pulp.",
+    "Cook meat/fish.",
+    "Combine pulp with stock.",
+    "Add aromatics and pepper.",
+    "Simmer until the soup becomes rich and thick."
+   ]
+  },
+  "Liberia::Dumboy": {
+   "ingredients": [
+    "Cassava"
+   ],
+   "steps": [
+    "Boil cassava until soft.",
+    "Pound vigorously until it forms a smooth, sticky dough.",
+    "Serve with soup."
+   ]
+  },
+  "Liberia::Fufu": {
+   "ingredients": [
+    "Cassava/plantain/yam"
+   ],
+   "steps": [
+    "Boil cassava/plantain/yam.",
+    "Pound into a smooth, elastic dough."
+   ]
+  },
+  "Liberia::GB Soup": {
+   "ingredients": [
+    "Meat/fish",
+    "Peanut butter",
+    "Vegetables",
+    "Palm oil",
+    "Pepper",
+    "Onion",
+    "Stock"
+   ],
+   "steps": [
+    "Cook meat until tender.",
+    "Fry onion and pepper.",
+    "Add peanut butter and stock.",
+    "Add meat and vegetables.",
+    "Simmer until thick and flavorful."
+   ]
+  },
+  "Gambia::Domoda": {
+   "ingredients": [
+    "Peanut butter",
+    "Beef/chicken",
+    "Tomato paste",
+    "Onion",
+    "Carrots",
+    "Potatoes",
+    "Cabbage",
+    "Chili"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Fry onion and tomato paste.",
+    "Add diluted peanut butter.",
+    "Add vegetables and meat.",
+    "Simmer until thick.",
+    "Serve over rice."
+   ]
+  },
+  "Gambia::Benachin": {
+   "ingredients": [
+    "Meat/fish",
+    "Tomato",
+    "Onion",
+    "Vegetables",
+    "Rice"
+   ],
+   "steps": [
+    "Cook meat/fish with tomato, onion and vegetables.",
+    "Remove the cooked ingredients.",
+    "Add rice to the sauce.",
+    "Cook until tender.",
+    "Serve rice with the meat/fish and vegetables."
+   ]
+  },
+  "Gambia::Yassa": {
+   "ingredients": [
+    "Chicken/fish",
+    "Onions",
+    "Lemon",
+    "Mustard",
+    "Chili"
+   ],
+   "steps": [
+    "Slow-cook marinated chicken/fish with lots of onions, lemon, mustard and chili.",
+    "Serve with rice."
+   ]
+  },
+  "Gambia::Superkanja": {
+   "ingredients": [
+    "Okra",
+    "Meat/fish",
+    "Palm oil",
+    "Onion",
+    "Pepper",
+    "Dried fish",
+    "Stock"
+   ],
+   "steps": [
+    "Cook meat and fish.",
+    "Add chopped okra.",
+    "Add palm oil, onion and pepper.",
+    "Simmer until thick and slightly sticky.",
+    "Serve with rice or a starch."
+   ]
+  },
+  "Gambia::Chere": {
+   "ingredients": [
+    "Millet couscous",
+    "Vegetables",
+    "Meat/fish",
+    "Tomato",
+    "Onion",
+    "Spices"
+   ],
+   "steps": [
+    "Steam millet couscous.",
+    "Prepare a vegetable/meat sauce.",
+    "Combine or serve the sauce over the couscous."
+   ]
+  },
+  "Gambia::Plasas": {
+   "ingredients": [
+    "Pounded leafy greens",
+    "Palm oil",
+    "Fish/meat",
+    "Onion",
+    "Pepper"
+   ],
+   "steps": [
+    "Cook pounded leafy greens with palm oil, fish/meat, onion and pepper until tender and thick."
+   ]
+  },
+  "Burkina Faso::Tô": {
+   "ingredients": [
+    "Maize, millet or sorghum flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook flour in boiling water, stirring continuously until thick and smooth.",
+    "Serve with vegetable, meat or peanut sauce."
+   ]
+  },
+  "Burkina Faso::Riz Gras": {
+   "ingredients": [
+    "Meat",
+    "Tomatoes",
+    "Onion",
+    "Spices",
+    "Rice",
+    "Stock"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Cook with tomatoes, onion and spices.",
+    "Add rice and stock.",
+    "Cook covered until tender."
+   ]
+  },
+  "Burkina Faso::Poulet Bicyclette": {
+   "ingredients": [
+    "Chicken",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chili",
+    "Lemon",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Marinate chicken.",
+    "Grill over charcoal.",
+    "Turn and baste frequently.",
+    "Cook until deeply browned and fully cooked.",
+    "Serve with onion sauce and starch."
+   ]
+  },
+  "Burkina Faso::Babenda": {
+   "ingredients": [
+    "Leafy greens",
+    "Millet/sorghum",
+    "Fish or meat",
+    "Onion",
+    "Spices"
+   ],
+   "steps": [
+    "Cook leafy greens with millet/sorghum, fish or meat, onion and spices until it forms a thick, hearty mixture."
+   ]
+  },
+  "Burkina Faso::Beignets": {
+   "ingredients": [
+    "Flour",
+    "Sugar",
+    "Yeast",
+    "Water",
+    "Oil"
+   ],
+   "steps": [
+    "Make a yeast-based flour batter with flour, sugar, yeast and water.",
+    "Allow it to rise.",
+    "Deep-fry spoonfuls until golden."
+   ]
+  },
+  "Benin::Amiwo": {
+   "ingredients": [
+    "Rice",
+    "Tomato paste",
+    "Tomatoes",
+    "Onion",
+    "Pepper",
+    "Oil",
+    "Chicken stock",
+    "Spices"
+   ],
+   "steps": [
+    "Fry onion and tomato paste.",
+    "Add blended tomato and pepper.",
+    "Add stock and spices.",
+    "Add rice.",
+    "Cover and cook until tender and richly colored."
+   ]
+  },
+  "Benin::Akassa": {
+   "ingredients": [
+    "Fermented corn dough",
+    "Water"
+   ],
+   "steps": [
+    "Cook fermented corn dough with water while stirring until it becomes a smooth, soft paste.",
+    "Serve with tomato, fish or meat sauce."
+   ]
+  },
+  "Benin::Pâte": {
+   "ingredients": [
+    "Maize, cassava or yam flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize, cassava or yam flour with boiling water, stirring until thick and smooth.",
+    "Serve with sauce."
+   ]
+  },
+  "Benin::Ablo": {
+   "ingredients": [
+    "Rice flour",
+    "Corn flour",
+    "Yeast",
+    "Sugar",
+    "Water"
+   ],
+   "steps": [
+    "Mix into a thick batter.",
+    "Ferment/rise.",
+    "Pour into small molds.",
+    "Steam until fluffy and cooked through."
+   ]
+  },
+  "Benin::Atassi": {
+   "ingredients": [
+    "Rice",
+    "Black-eyed beans",
+    "Tomato",
+    "Onion",
+    "Pepper",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Partially cook beans.",
+    "Add rice.",
+    "Add tomato, onion and seasonings.",
+    "Cook until both are tender.",
+    "Serve with sauce or fried plantain."
+   ]
+  },
+  "Benin::Igname Pilée": {
+   "ingredients": [
+    "Yam"
+   ],
+   "steps": [
+    "Boil yam until tender.",
+    "Pound until smooth and stretchy.",
+    "Serve with soup or sauce."
+   ]
+  },
+  "Togo::Fufu": {
+   "ingredients": [
+    "Cassava, plantain or yam"
+   ],
+   "steps": [
+    "Boil cassava, plantain or yam.",
+    "Pound until smooth and stretchy."
+   ]
+  },
+  "Togo::Akoumé": {
+   "ingredients": [
+    "Fermented maize dough",
+    "Water"
+   ],
+   "steps": [
+    "Cook fermented maize dough with water, stirring until it becomes a smooth, firm paste.",
+    "Serve with fish or vegetable sauce."
+   ]
+  },
+  "Togo::Djenkoumé": {
+   "ingredients": [
+    "Corn flour",
+    "Tomatoes",
+    "Onion",
+    "Pepper",
+    "Oil",
+    "Water"
+   ],
+   "steps": [
+    "Prepare a tomato-pepper sauce.",
+    "Add water.",
+    "Gradually add corn flour.",
+    "Stir continuously until thick.",
+    "Cook until firm and smooth."
+   ]
+  },
+  "Togo::Ablo": {
+   "ingredients": [
+    "Fermented rice/corn batter"
+   ],
+   "steps": [
+    "Prepare a fermented rice/corn batter.",
+    "Steam in small molds until light and fluffy."
+   ]
+  },
+  "Togo::Ayimolou": {
+   "ingredients": [
+    "Rice",
+    "Beans",
+    "Tomato",
+    "Onion",
+    "Pepper",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cook beans until partly tender.",
+    "Add rice.",
+    "Add tomato, onion and pepper.",
+    "Cover and cook until both are tender."
+   ]
+  },
+  "Togo::Akpan": {
+   "ingredients": [
+    "Fermented maize/corn dough"
+   ],
+   "steps": [
+    "Cook fermented maize/corn dough into a soft, smooth paste.",
+    "Commonly served with pepper, tomato or fish-based sauces."
+   ]
+  },
+  "Niger::Tuwo": {
+   "ingredients": [
+    "Maize or millet flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize or millet flour with boiling water until it forms a thick, smooth dough.",
+    "Shape and serve with soup."
+   ]
+  },
+  "Niger::Dambou": {
+   "ingredients": [
+    "Millet/couscous",
+    "Leafy vegetables",
+    "Onion",
+    "Oil",
+    "Spices"
+   ],
+   "steps": [
+    "Steam the grain.",
+    "Cook chopped greens with onion and spices.",
+    "Mix with the steamed grain.",
+    "Add oil and season."
+   ]
+  },
+  "Niger::Masa": {
+   "ingredients": [
+    "Rice",
+    "Yeast",
+    "Sugar",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Soak rice and blend into a batter.",
+    "Add yeast and allow to ferment.",
+    "Pour into an oiled masa pan.",
+    "Cook until golden on both sides."
+   ]
+  },
+  "Niger::Kilishi": {
+   "ingredients": [
+    "Very thin beef slices",
+    "Peanut paste",
+    "Chili",
+    "Ginger",
+    "Garlic",
+    "Spices",
+    "Salt"
+   ],
+   "steps": [
+    "Slice beef extremely thin.",
+    "Marinate or coat with spiced peanut mixture.",
+    "Dry in the sun or a dehydrator/low oven.",
+    "Finish by roasting/grilling briefly."
+   ]
+  },
+  "Cabo Verde::Cachupa": {
+   "ingredients": [
+    "Corn hominy",
+    "Beans",
+    "Cassava",
+    "Sweet potato",
+    "Cabbage",
+    "Carrots",
+    "Pork/chicken/sausage",
+    "Onion",
+    "Tomatoes"
+   ],
+   "steps": [
+    "Soak beans and corn.",
+    "Cook them together until beginning to soften.",
+    "Add meat.",
+    "Add vegetables.",
+    "Simmer for several hours until everything is tender and the broth is rich.",
+    "Serve as a stew or drain and fry leftovers as cachupa refogada."
+   ]
+  },
+  "Cabo Verde::Canja": {
+   "ingredients": [
+    "Chicken",
+    "Rice",
+    "Onion",
+    "Garlic",
+    "Parsley",
+    "Lemon",
+    "Stock",
+    "Salt"
+   ],
+   "steps": [
+    "Cook chicken with onion and garlic.",
+    "Add rice and stock.",
+    "Simmer until rice is very soft.",
+    "Shred chicken.",
+    "Finish with parsley and lemon."
+   ]
+  },
+  "Cabo Verde::Pastéis": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Salt",
+    "Oil",
+    "Tuna/fish",
+    "Onion",
+    "Tomato",
+    "Pepper"
+   ],
+   "steps": [
+    "Make and rest the dough.",
+    "Prepare seasoned fish filling.",
+    "Roll dough thin.",
+    "Fill and seal.",
+    "Fry until crisp and golden."
+   ]
+  },
+  "Cabo Verde::Xerém": {
+   "ingredients": [
+    "Cracked corn/cornmeal",
+    "Water or stock",
+    "Onion",
+    "Garlic",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cook cracked corn slowly in water/stock.",
+    "Stir regularly.",
+    "Add sautéed onion and garlic.",
+    "Continue cooking until creamy and tender.",
+    "Serve with meat or seafood."
+   ]
+  },
+  "Cabo Verde::Feijoada": {
+   "ingredients": [
+    "Beans",
+    "Pork/beef/sausage",
+    "Onion",
+    "Garlic",
+    "Tomato",
+    "Bay leaf",
+    "Carrots",
+    "Stock"
+   ],
+   "steps": [
+    "Soak beans.",
+    "Cook beans with meat until tender.",
+    "Fry onion and garlic.",
+    "Add tomato and seasoning.",
+    "Combine everything and simmer until rich.",
+    "Serve with rice."
+   ]
+  },
+  "Cameroon::Poulet DG": {
+   "ingredients": [
+    "Chicken",
+    "Plantains",
+    "Carrots",
+    "Green beans",
+    "Bell pepper",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Fry or grill seasoned chicken.",
+    "Fry plantain slices.",
+    "Sauté onion, garlic, ginger and tomatoes.",
+    "Add vegetables and chicken.",
+    "Simmer, then fold in fried plantains."
+   ]
+  },
+  "Cameroon::Eru": {
+   "ingredients": [
+    "Eru leaves",
+    "Waterleaf/spinach",
+    "Beef",
+    "Smoked fish",
+    "Crayfish",
+    "Palm oil",
+    "Pepper",
+    "Salt"
+   ],
+   "steps": [
+    "Cook meat until tender.",
+    "Add chopped eru and waterleaf.",
+    "Add fish, crayfish and palm oil.",
+    "Simmer until the greens are tender and the mixture is thick.",
+    "Serve with garri or fufu."
+   ]
+  },
+  "Cameroon::Achu": {
+   "ingredients": [
+    "Pounded yellow cocoyam",
+    "Palm oil",
+    "Limestone/potash",
+    "Water",
+    "Beef/goat",
+    "Spices"
+   ],
+   "steps": [
+    "Boil cocoyams and pound until smooth.",
+    "Make yellow soup by combining palm oil, stock, spices and a tiny amount of edible limestone/potash.",
+    "Serve with meat and achu."
+   ]
+  },
+  "Cameroon::Koki": {
+   "ingredients": [
+    "Black-eyed beans",
+    "Palm oil",
+    "Pepper",
+    "Onion",
+    "Salt",
+    "Banana leaves"
+   ],
+   "steps": [
+    "Soak and peel beans.",
+    "Blend into a smooth paste.",
+    "Mix with palm oil and pepper.",
+    "Wrap portions in banana leaves and steam for about 1 hour."
+   ]
+  },
+  "Cameroon::Mbongo Tchobi": {
+   "ingredients": [
+    "Fish",
+    "Mbongo spice",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Season and lightly fry fish.",
+    "Make a dark sauce from blended aromatics and mbongo spice.",
+    "Add fish and simmer until cooked."
+   ]
+  },
+  "Cameroon::Okok": {
+   "ingredients": [
+    "Okok leaves",
+    "Groundnut paste",
+    "Palm oil",
+    "Meat/fish",
+    "Crayfish",
+    "Pepper"
+   ],
+   "steps": [
+    "Cook leaves until tender.",
+    "Prepare peanut sauce with meat, fish, crayfish and pepper.",
+    "Combine with leaves and palm oil.",
+    "Simmer until thick."
+   ]
+  },
+  "Cameroon::Nkui": {
+   "ingredients": [
+    "Nkui bark/spice",
+    "Okra or vegetables",
+    "Meat/fish",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Prepare the nkui infusion and strain it.",
+    "Combine with cooked meat and vegetables.",
+    "Whisk vigorously until the soup becomes characteristically thick and stretchy.",
+    "Serve with fufu."
+   ]
+  },
+  "Cameroon::Suya": {
+   "ingredients": [
+    "Beef/chicken",
+    "Ground peanuts",
+    "Cayenne",
+    "Paprika",
+    "Ginger",
+    "Garlic",
+    "Onion powder",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Slice meat thinly.",
+    "Coat with spice-peanut mixture.",
+    "Thread onto skewers.",
+    "Grill over charcoal until cooked and slightly charred."
+   ]
+  },
+  "DR Congo::Fufu": {
+   "ingredients": [
+    "Cassava/plantain/yam"
+   ],
+   "steps": [
+    "Boil cassava/plantain/yam.",
+    "Pound until smooth and elastic.",
+    "Shape into balls and serve with stew."
+   ]
+  },
+  "DR Congo::Moambe Chicken": {
+   "ingredients": [
+    "Chicken",
+    "Palm-nut cream",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chili"
+   ],
+   "steps": [
+    "Brown chicken.",
+    "Sauté aromatics and tomato.",
+    "Add palm-nut cream and chicken.",
+    "Simmer until tender and rich."
+   ]
+  },
+  "DR Congo::Pondu": {
+   "ingredients": [
+    "Cassava leaves",
+    "Palm oil",
+    "Onion",
+    "Garlic",
+    "Meat/fish",
+    "Chili",
+    "Stock"
+   ],
+   "steps": [
+    "Pound cassava leaves finely.",
+    "Cook meat.",
+    "Add leaves, aromatics, palm oil and stock.",
+    "Simmer slowly until tender."
+   ]
+  },
+  "DR Congo::Saka-Saka": {
+   "ingredients": [
+    "Cassava leaves",
+    "Palm oil",
+    "Onion",
+    "Garlic",
+    "Meat/fish",
+    "Chili",
+    "Stock"
+   ],
+   "steps": [
+    "Pound cassava leaves finely.",
+    "Cook meat.",
+    "Add leaves, aromatics, palm oil and stock.",
+    "Simmer slowly until tender."
+   ]
+  },
+  "DR Congo::Liboke": {
+   "ingredients": [
+    "Fish/chicken",
+    "Tomato",
+    "Onion",
+    "Pepper",
+    "Garlic",
+    "Ginger",
+    "Banana leaves"
+   ],
+   "steps": [
+    "Season protein and wrap it with vegetables in banana leaves.",
+    "Steam or grill until fully cooked."
+   ]
+  },
+  "DR Congo::Chikwanga": {
+   "ingredients": [
+    "Cassava flour",
+    "Water",
+    "Banana leaves"
+   ],
+   "steps": [
+    "Mix cassava flour with water into a thick dough.",
+    "Wrap tightly in banana leaves.",
+    "Boil/steam until firm."
+   ]
+  },
+  "DR Congo::Sambaza": {
+   "ingredients": [
+    "Small fish",
+    "Salt",
+    "Garlic",
+    "Lemon"
+   ],
+   "steps": [
+    "Clean small fish.",
+    "Season with salt, garlic and lemon.",
+    "Fry until crisp.",
+    "Serve with vegetables or a dipping sauce."
+   ]
+  },
+  "Republic of Congo::Moambe": {
+   "ingredients": [
+    "Chicken/meat",
+    "Palm-nut cream",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Chili"
+   ],
+   "steps": [
+    "Cook chicken/meat with palm-nut cream, tomato, onion, garlic and chili until tender and thick.",
+    "Serve with fufu or rice."
+   ]
+  },
+  "Republic of Congo::Saka-Saka": {
+   "ingredients": [
+    "Pounded cassava leaves",
+    "Palm oil",
+    "Onion",
+    "Garlic",
+    "Fish/meat",
+    "Chili"
+   ],
+   "steps": [
+    "Cook finely pounded cassava leaves with palm oil, onion, garlic, fish/meat and chili until soft."
+   ]
+  },
+  "Republic of Congo::Fufu": {
+   "ingredients": [
+    "Cassava or plantain"
+   ],
+   "steps": [
+    "Boil cassava or plantain.",
+    "Pound until smooth and elastic."
+   ]
+  },
+  "Republic of Congo::Poulet à la Moambé": {
+   "ingredients": [
+    "Chicken",
+    "Palm-nut cream",
+    "Onion",
+    "Garlic",
+    "Tomato",
+    "Spices"
+   ],
+   "steps": [
+    "Brown chicken.",
+    "Add palm-nut cream, onion, garlic, tomato and spices.",
+    "Simmer until tender."
+   ]
+  },
+  "Republic of Congo::Makayabu": {
+   "ingredients": [
+    "Salted dried fish",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Pepper",
+    "Oil"
+   ],
+   "steps": [
+    "Soak fish to reduce salt.",
+    "Fry with onion, tomato, garlic and pepper until fragrant.",
+    "Serve with rice or cassava."
+   ]
+  },
+  "Republic of Congo::Ntaba": {
+   "ingredients": [
+    "Goat meat",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chili",
+    "Tomato",
+    "Oil"
+   ],
+   "steps": [
+    "Season and grill/braise goat until browned and tender.",
+    "Serve with plantain, cassava or rice."
+   ]
+  },
+  "Gabon::Poulet Nyembwe": {
+   "ingredients": [
+    "Chicken",
+    "Palm-nut cream",
+    "Onion",
+    "Tomato",
+    "Garlic",
+    "Ginger",
+    "Chili"
+   ],
+   "steps": [
+    "Brown chicken.",
+    "Simmer with palm-nut cream, onion, tomato, garlic, ginger and chili until tender."
+   ]
+  },
+  "Gabon::Moambe": {
+   "ingredients": [
+    "Meat/chicken",
+    "Palm-nut sauce",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Spices"
+   ],
+   "steps": [
+    "Cook meat/chicken in palm-nut sauce with tomato, onion, garlic and spices."
+   ]
+  },
+  "Gabon::Odika": {
+   "ingredients": [
+    "Odika/wild mango kernel",
+    "Meat or fish",
+    "Onion",
+    "Garlic",
+    "Chili",
+    "Water"
+   ],
+   "steps": [
+    "Grate odika and dissolve it into hot stock.",
+    "Add cooked meat/fish and aromatics.",
+    "Simmer until the sauce becomes thick and dark."
+   ]
+  },
+  "Gabon::Fish Stews": {
+   "ingredients": [
+    "Fish",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Pepper"
+   ],
+   "steps": [
+    "Fry fish lightly.",
+    "Make a tomato-onion-garlic-pepper sauce.",
+    "Return fish to the sauce and simmer until cooked."
+   ]
+  },
+  "Angola::Muamba de Galinha": {
+   "ingredients": [
+    "Chicken",
+    "Palm oil",
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Okra",
+    "Chili",
+    "Lemon",
+    "Spices"
+   ],
+   "steps": [
+    "Marinate chicken with lemon and spices.",
+    "Brown it in palm oil.",
+    "Add tomato, onion and garlic.",
+    "Add okra and water.",
+    "Simmer until tender."
+   ]
+  },
+  "Angola::Calulu": {
+   "ingredients": [
+    "Fish/meat",
+    "Leafy greens",
+    "Tomatoes",
+    "Onion",
+    "Okra",
+    "Palm oil",
+    "Chili"
+   ],
+   "steps": [
+    "Cook fish/meat, leafy greens, tomatoes, onion, okra, palm oil and chili together until tender and thick.",
+    "Serve with funge."
+   ]
+  },
+  "Angola::Funge": {
+   "ingredients": [
+    "Cassava flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook cassava flour with boiling water, stirring vigorously until smooth, thick and elastic."
+   ]
+  },
+  "Angola::Pirão": {
+   "ingredients": [
+    "Cassava flour",
+    "Fish/meat stock"
+   ],
+   "steps": [
+    "Mix cassava flour gradually into hot fish/meat stock, stirring until a thick smooth dough forms."
+   ]
+  },
+  "Angola::Mufete": {
+   "ingredients": [
+    "Whole fish",
+    "Salt",
+    "Garlic",
+    "Cassava",
+    "Sweet potato",
+    "Plantain",
+    "Beans",
+    "Onion",
+    "Tomato"
+   ],
+   "steps": [
+    "Grill whole fish with salt and garlic.",
+    "Serve with cassava, sweet potato, plantain, beans and onion-tomato sauce."
+   ]
+  },
+  "Angola::Cabidela": {
+   "ingredients": [
+    "Chicken",
+    "Rice",
+    "Vinegar",
+    "Onion",
+    "Garlic",
+    "Blood",
+    "Oil",
+    "Spices"
+   ],
+   "steps": [
+    "Cook chicken with onion and garlic.",
+    "Stir in fresh blood mixed with vinegar near the end, keeping it hot and well cooked.",
+    "Serve with rice."
+   ]
+  },
+  "São Tomé & Príncipe::Calulu": {
+   "ingredients": [
+    "Fish/chicken",
+    "Leafy vegetables",
+    "Tomato",
+    "Onion",
+    "Okra",
+    "Palm oil",
+    "Spices"
+   ],
+   "steps": [
+    "Cook fish/chicken with leafy vegetables, tomato, onion, okra, palm oil and spices until tender."
+   ]
+  },
+  "São Tomé & Príncipe::Fish Stew": {
+   "ingredients": [
+    "Fish",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Pepper"
+   ],
+   "steps": [
+    "Fry seasoned fish.",
+    "Cook tomato, onion, garlic and pepper into a sauce.",
+    "Add fish and simmer."
+   ]
+  },
+  "São Tomé & Príncipe::Chicken Stew": {
+   "ingredients": [
+    "Chicken",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Pepper",
+    "Stock"
+   ],
+   "steps": [
+    "Brown chicken.",
+    "Simmer with tomato, onion, garlic, ginger, pepper and stock until tender."
+   ]
+  },
+  "Chad::Kisra": {
+   "ingredients": [
+    "Sorghum flour",
+    "Water",
+    "Starter/fermentation culture"
+   ],
+   "steps": [
+    "Make a thin fermented batter.",
+    "Pour thinly onto a hot pan.",
+    "Cook one side until dry and flexible."
+   ]
+  },
+  "Chad::Daraba": {
+   "ingredients": [
+    "Okra",
+    "Peanut paste",
+    "Tomatoes",
+    "Meat/fish",
+    "Vegetables"
+   ],
+   "steps": [
+    "Cook okra, peanut paste, tomatoes, meat/fish and vegetables together until thick and slimy."
+   ]
+  },
+  "Chad::Aseeda": {
+   "ingredients": [
+    "Flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook flour in boiling water while stirring until it forms a smooth, thick dough.",
+    "Serve with a savory sauce."
+   ]
+  },
+  "Chad::Boule": {
+   "ingredients": [
+    "Millet/sorghum/maize flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook millet/sorghum/maize flour with water until very thick.",
+    "Knead until smooth.",
+    "Shape into balls."
+   ]
+  },
+  "Central African Republic::Fufu": {
+   "ingredients": [
+    "Cassava/plantain"
+   ],
+   "steps": [
+    "Boil cassava/plantain.",
+    "Pound until smooth and elastic."
+   ]
+  },
+  "Central African Republic::Kanda": {
+   "ingredients": [
+    "Ground meat",
+    "Pumpkin seeds",
+    "Onion",
+    "Garlic",
+    "Pepper",
+    "Salt"
+   ],
+   "steps": [
+    "Mix ground meat with crushed pumpkin seeds and spices.",
+    "Form balls.",
+    "Simmer in a tomato or vegetable sauce until cooked."
+   ]
+  },
+  "Central African Republic::Peanut Stew": {
+   "ingredients": [
+    "Meat",
+    "Tomato",
+    "Onion",
+    "Pepper",
+    "Peanut paste"
+   ],
+   "steps": [
+    "Cook meat with tomato, onion, pepper and peanut paste.",
+    "Simmer until rich and thick."
+   ]
+  },
+  "Central African Republic::Cassava Leaf Dishes": {
+   "ingredients": [
+    "Cassava leaves",
+    "Palm oil",
+    "Meat/fish",
+    "Onion",
+    "Garlic",
+    "Chili"
+   ],
+   "steps": [
+    "Cook pounded cassava leaves with palm oil, meat/fish, onion, garlic and chili until completely tender."
+   ]
+  },
+  "Egypt::Ful Medames": {
+   "ingredients": [
+    "Cooked fava beans",
+    "Garlic",
+    "Cumin",
+    "Lemon",
+    "Salt",
+    "Olive oil"
+   ],
+   "steps": [
+    "Simmer cooked fava beans with garlic, cumin, lemon and salt.",
+    "Mash lightly and finish with olive oil.",
+    "Serve with bread."
+   ]
+  },
+  "Egypt::Molokhia": {
+   "ingredients": [
+    "Molokhia leaves",
+    "Chicken stock",
+    "Garlic",
+    "Butter/oil",
+    "Coriander"
+   ],
+   "steps": [
+    "Cook finely chopped molokhia leaves in chicken stock.",
+    "Add crushed garlic fried in butter/oil and coriander.",
+    "Serve with rice and chicken."
+   ]
+  },
+  "Egypt::Fatta": {
+   "ingredients": [
+    "Toasted bread",
+    "Rice",
+    "Chickpeas",
+    "Garlic-vinegar sauce",
+    "Meat broth",
+    "Cooked meat"
+   ],
+   "steps": [
+    "Layer toasted bread, rice and chickpeas.",
+    "Pour over garlic-vinegar sauce and meat broth.",
+    "Top with cooked meat."
+   ]
+  },
+  "Egypt::Mahshi": {
+   "ingredients": [
+    "Vegetables (peppers, zucchini, eggplant, cabbage leaves)",
+    "Rice",
+    "Herbs",
+    "Tomato",
+    "Spices"
+   ],
+   "steps": [
+    "Stuff vegetables such as peppers, zucchini, eggplant or cabbage leaves with rice, herbs, tomato and spices.",
+    "Simmer in seasoned tomato broth until tender."
+   ]
+  },
+  "Egypt::Ta'ameya": {
+   "ingredients": [
+    "Soaked fava beans",
+    "Onion",
+    "Garlic",
+    "Parsley/coriander",
+    "Cumin"
+   ],
+   "steps": [
+    "Blend soaked fava beans, onion, garlic, parsley/coriander and cumin.",
+    "Form patties.",
+    "Deep-fry until crisp."
+   ]
+  },
+  "Egypt::Hawawshi": {
+   "ingredients": [
+    "Pita/flatbread",
+    "Minced beef",
+    "Onion",
+    "Pepper",
+    "Spices"
+   ],
+   "steps": [
+    "Fill pita/flatbread with seasoned minced beef, onion, pepper and spices.",
+    "Bake until the meat is cooked and the bread is crisp."
+   ]
+  },
+  "Egypt::Basbousa": {
+   "ingredients": [
+    "Semolina",
+    "Sugar",
+    "Yogurt",
+    "Butter",
+    "Sugar syrup"
+   ],
+   "steps": [
+    "Mix semolina, sugar, yogurt and butter.",
+    "Spread in a tray, score into diamonds and bake.",
+    "Pour warm sugar syrup over it."
+   ]
+  },
+  "Egypt::Kunafa": {
+   "ingredients": [
+    "Shredded kunafa pastry",
+    "Butter",
+    "Sweet cheese/cream",
+    "Sugar syrup"
+   ],
+   "steps": [
+    "Layer shredded kunafa pastry with butter and sweet cheese/cream.",
+    "Bake until golden.",
+    "Soak with sugar syrup."
+   ]
+  },
+  "Morocco::Pastilla": {
+   "ingredients": [
+    "Thin pastry",
+    "Spiced chicken/pigeon",
+    "Almonds",
+    "Egg",
+    "Cinnamon-sugar mixture"
+   ],
+   "steps": [
+    "Layer thin pastry around spiced chicken/pigeon, almonds, egg and cinnamon-sugar mixture.",
+    "Bake until crisp and golden."
+   ]
+  },
+  "Morocco::Harira": {
+   "ingredients": [
+    "Tomatoes",
+    "Lentils",
+    "Chickpeas",
+    "Celery",
+    "Onion",
+    "Meat",
+    "Flour",
+    "Herbs"
+   ],
+   "steps": [
+    "Cook tomatoes, lentils, chickpeas, celery, onion and meat with spices.",
+    "Thicken lightly with flour.",
+    "Finish with herbs."
+   ]
+  },
+  "Morocco::Rfissa": {
+   "ingredients": [
+    "Msemen",
+    "Chicken",
+    "Lentils",
+    "Fenugreek",
+    "Onion",
+    "Moroccan spices"
+   ],
+   "steps": [
+    "Cook chicken with lentils, fenugreek, onion and Moroccan spices.",
+    "Serve shredded msemen over the chicken and sauce."
+   ]
+  },
+  "Morocco::Zaalouk": {
+   "ingredients": [
+    "Eggplant",
+    "Tomatoes",
+    "Garlic",
+    "Cumin",
+    "Paprika",
+    "Olive oil"
+   ],
+   "steps": [
+    "Cook eggplant with tomatoes, garlic, cumin, paprika and olive oil until soft and mashable."
+   ]
+  },
+  "Morocco::Msemen": {
+   "ingredients": [
+    "Flour dough",
+    "Oil"
+   ],
+   "steps": [
+    "Make a soft flour dough.",
+    "Stretch it very thin.",
+    "Fold with oil into layers.",
+    "Pan-fry until crisp outside and soft inside."
+   ]
+  },
+  "Morocco::Baghrir": {
+   "ingredients": [
+    "Semolina batter (fermented)",
+    "Butter-honey syrup"
+   ],
+   "steps": [
+    "Make a fermented semolina batter.",
+    "Cook small pancakes on one side until thousands of holes appear.",
+    "Serve with butter-honey syrup."
+   ]
+  },
+  "Algeria::Couscous": {
+   "ingredients": [
+    "Couscous grains",
+    "Chicken/lamb",
+    "Chickpeas",
+    "Carrots",
+    "Zucchini",
+    "Turnip",
+    "Tomato broth"
+   ],
+   "steps": [
+    "Steam couscous grains.",
+    "Serve with a stew of chicken/lamb, chickpeas, carrots, zucchini, turnip and tomato broth."
+   ]
+  },
+  "Algeria::Chakhchoukha": {
+   "ingredients": [
+    "Thin flatbread",
+    "Spicy tomato-meat sauce"
+   ],
+   "steps": [
+    "Tear thin flatbread into pieces.",
+    "Cover with a spicy tomato-meat sauce.",
+    "Simmer briefly so the bread absorbs the sauce."
+   ]
+  },
+  "Algeria::Rechta": {
+   "ingredients": [
+    "Steamed handmade noodles",
+    "Chicken",
+    "Chickpeas",
+    "White onion/chickpea sauce",
+    "Cinnamon"
+   ],
+   "steps": [
+    "Serve steamed handmade noodles with chicken, chickpeas and a white onion/chickpea sauce flavored with cinnamon."
+   ]
+  },
+  "Algeria::Chorba": {
+   "ingredients": [
+    "Meat",
+    "Onion",
+    "Tomato",
+    "Chickpeas",
+    "Herbs",
+    "Spices",
+    "Pasta or grains"
+   ],
+   "steps": [
+    "Cook meat with onion, tomato, chickpeas, herbs and spices.",
+    "Add pasta or grains and simmer until tender."
+   ]
+  },
+  "Algeria::Tajine Zitoune": {
+   "ingredients": [
+    "Chicken",
+    "Green olives",
+    "Onion",
+    "Garlic",
+    "Lemon",
+    "Spices"
+   ],
+   "steps": [
+    "Cook chicken with green olives, onion, garlic and lemon in a lightly spiced sauce until tender."
+   ]
+  },
+  "Algeria::Merguez": {
+   "ingredients": [
+    "Lamb/beef mince",
+    "Paprika",
+    "Cumin",
+    "Garlic",
+    "Chili",
+    "Salt",
+    "Sausage casings"
+   ],
+   "steps": [
+    "Mix lamb/beef mince with paprika, cumin, garlic, chili and salt.",
+    "Stuff into sausage casings.",
+    "Grill or pan-fry."
+   ]
+  },
+  "Algeria::Makroud": {
+   "ingredients": [
+    "Semolina pastry",
+    "Date paste",
+    "Honey syrup"
+   ],
+   "steps": [
+    "Fill semolina pastry with date paste.",
+    "Shape into diamonds.",
+    "Fry/bake and coat with honey syrup."
+   ]
+  },
+  "Tunisia::Couscous": {
+   "ingredients": [
+    "Couscous",
+    "Lamb/chicken",
+    "Chickpeas",
+    "Carrots",
+    "Potatoes",
+    "Peppers",
+    "Spicy tomato broth"
+   ],
+   "steps": [
+    "Steam couscous.",
+    "Serve with spicy tomato broth containing lamb/chicken, chickpeas, carrots, potatoes and peppers."
+   ]
+  },
+  "Tunisia::Brik": {
+   "ingredients": [
+    "Thin pastry",
+    "Egg",
+    "Tuna",
+    "Parsley",
+    "Potato"
+   ],
+   "steps": [
+    "Fill thin pastry with egg, tuna, parsley and potato.",
+    "Fold and deep-fry until crisp."
+   ]
+  },
+  "Tunisia::Lablabi": {
+   "ingredients": [
+    "Chickpeas",
+    "Garlic-cumin broth",
+    "Torn bread",
+    "Olive oil",
+    "Lemon",
+    "Chili",
+    "Egg, optional"
+   ],
+   "steps": [
+    "Simmer chickpeas in garlic-cumin broth.",
+    "Serve over torn bread with olive oil, lemon, chili and sometimes an egg."
+   ]
+  },
+  "Tunisia::Shakshuka": {
+   "ingredients": [
+    "Tomatoes",
+    "Peppers",
+    "Onion",
+    "Garlic",
+    "Spices",
+    "Eggs"
+   ],
+   "steps": [
+    "Cook tomatoes, peppers, onion, garlic and spices.",
+    "Crack eggs into the sauce and cover until set."
+   ]
+  },
+  "Tunisia::Ojja": {
+   "ingredients": [
+    "Tomato",
+    "Pepper",
+    "Garlic",
+    "Harissa",
+    "Eggs",
+    "Merguez, optional"
+   ],
+   "steps": [
+    "Cook tomato, pepper, garlic and harissa sauce.",
+    "Add eggs and/or merguez.",
+    "Cook until the eggs set."
+   ]
+  },
+  "Tunisia::Mechouia Salad": {
+   "ingredients": [
+    "Peppers",
+    "Tomatoes",
+    "Onion",
+    "Olive oil",
+    "Lemon",
+    "Salt",
+    "Tuna/egg, optional"
+   ],
+   "steps": [
+    "Char peppers, tomatoes and onion.",
+    "Peel and chop them.",
+    "Season with olive oil, lemon, salt and optional tuna/egg."
+   ]
+  },
+  "Libya::Bazeen": {
+   "ingredients": [
+    "Barley flour",
+    "Water",
+    "Lamb-tomato stew",
+    "Potatoes"
+   ],
+   "steps": [
+    "Cook barley flour with water until it becomes a firm dough.",
+    "Serve with a rich lamb-tomato stew and potatoes."
+   ]
+  },
+  "Libya::Couscous": {
+   "ingredients": [
+    "Couscous",
+    "Lamb/chicken",
+    "Chickpeas",
+    "Vegetables",
+    "Spicy tomato broth"
+   ],
+   "steps": [
+    "Steam couscous.",
+    "Serve with lamb/chicken, chickpeas, vegetables and spicy tomato broth."
+   ]
+  },
+  "Libya::Shakshuka": {
+   "ingredients": [
+    "Tomatoes",
+    "Peppers",
+    "Onion",
+    "Garlic",
+    "Spices",
+    "Eggs"
+   ],
+   "steps": [
+    "Simmer tomatoes, peppers, onion, garlic and spices.",
+    "Cook eggs directly in the sauce."
+   ]
+  },
+  "Libya::Asida": {
+   "ingredients": [
+    "Wheat flour",
+    "Water",
+    "Butter/oil",
+    "Honey or date syrup"
+   ],
+   "steps": [
+    "Cook wheat flour with water until thick and smooth.",
+    "Shape into a mound.",
+    "Make a well for melted butter/oil and honey or date syrup."
+   ]
+  },
+  "Libya::Mbakbaka": {
+   "ingredients": [
+    "Pasta",
+    "Spicy tomato, onion, garlic and meat/chicken broth"
+   ],
+   "steps": [
+    "Cook pasta directly in a spicy tomato, onion, garlic and meat/chicken broth, allowing it to absorb the sauce."
+   ]
+  },
+  "Sudan::Ful Medames": {
+   "ingredients": [
+    "Fava beans",
+    "Cumin",
+    "Garlic",
+    "Lemon",
+    "Salt",
+    "Oil",
+    "Tomato",
+    "Onion"
+   ],
+   "steps": [
+    "Simmer fava beans with cumin, garlic, lemon and salt.",
+    "Mash slightly.",
+    "Top with oil, tomato and onion."
+   ]
+  },
+  "Sudan::Kisra": {
+   "ingredients": [
+    "Sorghum flour",
+    "Water"
+   ],
+   "steps": [
+    "Ferment sorghum batter.",
+    "Cook it as very thin pancakes on a hot surface."
+   ]
+  },
+  "Sudan::Aseeda": {
+   "ingredients": [
+    "Flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook flour with boiling water until thick and smooth.",
+    "Serve with savory stew or sauce."
+   ]
+  },
+  "Sudan::Gourrassa": {
+   "ingredients": [
+    "Thin wheat-flour batter",
+    "Meat and tomato stew"
+   ],
+   "steps": [
+    "Make a thin wheat-flour batter.",
+    "Cook into flat pancakes.",
+    "Serve with meat and tomato stew."
+   ]
+  },
+  "Sudan::Shaiyah": {
+   "ingredients": [
+    "Beef/lamb",
+    "Onion",
+    "Garlic",
+    "Pepper",
+    "Cumin",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Fry/braise small pieces of meat with onion and spices until browned and tender."
+   ]
+  },
+  "South Africa::Boerewors": {
+   "ingredients": [
+    "Beef/pork/lamb, ground",
+    "Coriander",
+    "Pepper",
+    "Cloves",
+    "Salt",
+    "Sausage casing"
+   ],
+   "steps": [
+    "Grind beef/pork/lamb with coriander, pepper, cloves and salt.",
+    "Stuff into sausage casing.",
+    "Grill slowly until cooked."
+   ]
+  },
+  "South Africa::Pap": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Bring water to a boil.",
+    "Gradually add maize meal.",
+    "Stir vigorously.",
+    "Cook covered until thick.",
+    "Serve with meat or chakalaka."
+   ]
+  },
+  "South Africa::Chakalaka": {
+   "ingredients": [
+    "Onion",
+    "Peppers",
+    "Carrots",
+    "Cabbage",
+    "Tomato",
+    "Beans",
+    "Curry spices"
+   ],
+   "steps": [
+    "Fry onion, peppers, carrots and cabbage.",
+    "Add tomato, beans and curry spices.",
+    "Simmer until thick and spicy."
+   ]
+  },
+  "South Africa::Potjiekos": {
+   "ingredients": [
+    "Meat",
+    "Potatoes",
+    "Vegetables",
+    "Stock",
+    "Spices"
+   ],
+   "steps": [
+    "Layer meat, potatoes and vegetables in a heavy three-legged pot.",
+    "Add stock and spices.",
+    "Cover and simmer slowly without frequent stirring."
+   ]
+  },
+  "South Africa::Vetkoek": {
+   "ingredients": [
+    "Flour",
+    "Water",
+    "Yeast",
+    "Sugar",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Make yeast dough from flour, water, yeast, sugar and salt.",
+    "Allow to rise.",
+    "Form balls and deep-fry.",
+    "Fill with mince or serve with syrup."
+   ]
+  },
+  "South Africa::Biltong": {
+   "ingredients": [
+    "Beef strips",
+    "Salt",
+    "Vinegar",
+    "Coriander",
+    "Spices"
+   ],
+   "steps": [
+    "Coat beef strips with salt, vinegar, coriander and spices.",
+    "Cure, then air-dry in a clean controlled environment until firm."
+   ]
+  },
+  "South Africa::Gatsby": {
+   "ingredients": [
+    "Large roll",
+    "French fries",
+    "Meat/polony/steak",
+    "Lettuce",
+    "Tomato",
+    "Sauce"
+   ],
+   "steps": [
+    "Fill a large roll with French fries, meat/polony/steak, lettuce, tomato and sauce.",
+    "Cut into large portions."
+   ]
+  },
+  "South Africa::Sosaties": {
+   "ingredients": [
+    "Lamb cubes",
+    "Curry-spiced apricot/onion marinade"
+   ],
+   "steps": [
+    "Marinate lamb cubes in curry-spiced apricot/onion marinade.",
+    "Thread onto skewers.",
+    "Grill."
+   ]
+  },
+  "South Africa::Cape Malay Curry": {
+   "ingredients": [
+    "Chicken/lamb",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Turmeric",
+    "Cumin",
+    "Coriander",
+    "Cinnamon",
+    "Tomatoes"
+   ],
+   "steps": [
+    "Cook chicken/lamb with onion, garlic, ginger, turmeric, cumin, coriander, cinnamon and tomatoes.",
+    "Simmer until tender.",
+    "Serve with rice."
+   ]
+  },
+  "South Africa::Samp & Beans": {
+   "ingredients": [
+    "Samp",
+    "Beans",
+    "Butter",
+    "Seasoning"
+   ],
+   "steps": [
+    "Soak samp and beans overnight.",
+    "Boil until tender.",
+    "Simmer with onion, butter and seasoning."
+   ]
+  },
+  "South Africa::Umngqusho": {
+   "ingredients": [
+    "Samp",
+    "Beans",
+    "Onion",
+    "Butter",
+    "Seasoning"
+   ],
+   "steps": [
+    "Cook samp and beans until very tender.",
+    "Add onion, butter and seasoning.",
+    "Simmer until creamy."
+   ]
+  },
+  "Zimbabwe::Sadza": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize meal gradually into boiling water, stirring until very thick and smooth.",
+    "Serve with relish."
+   ]
+  },
+  "Zimbabwe::Dovi": {
+   "ingredients": [
+    "Chicken/beef",
+    "Onion",
+    "Tomato",
+    "Peanut butter",
+    "Stock"
+   ],
+   "steps": [
+    "Cook chicken/beef with onion and tomato.",
+    "Add peanut butter and stock.",
+    "Simmer until thick."
+   ]
+  },
+  "Zimbabwe::Muriwo": {
+   "ingredients": [
+    "Leafy greens",
+    "Onion",
+    "Tomato",
+    "Oil"
+   ],
+   "steps": [
+    "Cook leafy greens with onion, tomato and oil until tender.",
+    "Serve with sadza."
+   ]
+  },
+  "Zimbabwe::Mopane Worms": {
+   "ingredients": [
+    "Dried mopane worms",
+    "Onion",
+    "Tomato",
+    "Chili"
+   ],
+   "steps": [
+    "Clean and rehydrate dried mopane worms.",
+    "Fry with onion, tomato and chili until crisp/tender."
+   ]
+  },
+  "Zimbabwe::Mutakura": {
+   "ingredients": [
+    "Maize",
+    "Beans",
+    "Peanuts",
+    "Salt",
+    "Peanut butter, optional"
+   ],
+   "steps": [
+    "Cook maize, beans and peanuts together until tender.",
+    "Season with salt and sometimes peanut butter."
+   ]
+  },
+  "Zimbabwe::Kapenta": {
+   "ingredients": [
+    "Dried kapenta",
+    "Onion",
+    "Tomato",
+    "Garlic",
+    "Chili"
+   ],
+   "steps": [
+    "Clean dried kapenta.",
+    "Fry with onion, tomato, garlic and chili.",
+    "Serve with sadza."
+   ]
+  },
+  "Zimbabwe::Maheu": {
+   "ingredients": [
+    "Cooked maize meal porridge",
+    "Fermentation starter"
+   ],
+   "steps": [
+    "Ferment cooked maize meal porridge with a starter until slightly sour.",
+    "Chill and drink."
+   ]
+  },
+  "Zambia::Nshima": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize meal with water until very thick and smooth.",
+    "Serve with relish."
+   ]
+  },
+  "Zambia::Ifisashi": {
+   "ingredients": [
+    "Leafy greens",
+    "Tomato",
+    "Onion",
+    "Groundnut paste"
+   ],
+   "steps": [
+    "Cook leafy greens with tomato, onion and groundnut paste until thick."
+   ]
+  },
+  "Zambia::Chikanda": {
+   "ingredients": [
+    "Chikanda tuber powder",
+    "Peanut flour",
+    "Spices",
+    "Water"
+   ],
+   "steps": [
+    "Mix chikanda tuber powder with peanut flour, spices and water.",
+    "Shape and cook until firm.",
+    "Slice and fry."
+   ]
+  },
+  "Zambia::Kapenta": {
+   "ingredients": [
+    "Dried small fish",
+    "Onion",
+    "Tomato",
+    "Chili"
+   ],
+   "steps": [
+    "Fry small dried fish with onion, tomato and chili.",
+    "Serve with nshima."
+   ]
+  },
+  "Zambia::Village Chicken": {
+   "ingredients": [
+    "Chicken",
+    "Garlic",
+    "Onion",
+    "Ginger",
+    "Tomato",
+    "Vegetables"
+   ],
+   "steps": [
+    "Season chicken with garlic, onion, ginger and spices.",
+    "Brown and simmer with tomato and vegetables until tender."
+   ]
+  },
+  "Malawi::Nsima": {
+   "ingredients": [
+    "Maize flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize flour with boiling water, stirring until firm and smooth.",
+    "Serve with ndiwo."
+   ]
+  },
+  "Malawi::Chambo": {
+   "ingredients": [
+    "Whole chambo fish",
+    "Salt",
+    "Garlic",
+    "Lemon"
+   ],
+   "steps": [
+    "Season whole chambo fish with salt, garlic and lemon.",
+    "Grill or fry until cooked.",
+    "Serve with vegetables."
+   ]
+  },
+  "Malawi::Ndiwo": {
+   "ingredients": [
+    "Vegetables or meat",
+    "Tomato",
+    "Onion",
+    "Garlic",
+    "Seasoning"
+   ],
+   "steps": [
+    "Cook vegetables or meat with tomato, onion, garlic and seasoning until tender.",
+    "Serve with nsima."
+   ]
+  },
+  "Malawi::Usipa": {
+   "ingredients": [
+    "Small dried fish",
+    "Onion",
+    "Tomato",
+    "Chili"
+   ],
+   "steps": [
+    "Season small dried fish.",
+    "Fry with onion, tomato and chili until crisp."
+   ]
+  },
+  "Malawi::Kondowole": {
+   "ingredients": [
+    "Cassava flour",
+    "Water"
+   ],
+   "steps": [
+    "Mix cassava flour with water and cook/stir until it forms a thick, smooth dough.",
+    "Serve with ndiwo."
+   ]
+  },
+  "Mozambique::Matapa": {
+   "ingredients": [
+    "Cassava leaves",
+    "Ground peanuts",
+    "Coconut milk",
+    "Garlic",
+    "Onion",
+    "Shrimp/crab"
+   ],
+   "steps": [
+    "Cook cassava leaves with ground peanuts, coconut milk, garlic, onion and shrimp/crab until creamy."
+   ]
+  },
+  "Mozambique::Piri-Piri Chicken": {
+   "ingredients": [
+    "Chicken",
+    "Piri-piri chili",
+    "Lemon",
+    "Garlic",
+    "Paprika",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Marinate chicken with piri-piri chili, lemon, garlic, paprika, oil and salt.",
+    "Grill until charred and cooked."
+   ]
+  },
+  "Mozambique::Peri-Peri Prawns": {
+   "ingredients": [
+    "Prawns",
+    "Chili",
+    "Garlic",
+    "Lemon",
+    "Paprika",
+    "Butter/oil"
+   ],
+   "steps": [
+    "Marinate prawns in chili, garlic, lemon, paprika and butter/oil.",
+    "Grill or pan-fry quickly."
+   ]
+  },
+  "Mozambique::Xima": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize meal with water until thick and smooth.",
+    "Serve with meat, fish or vegetable sauce."
+   ]
+  },
+  "Mozambique::Chamussas": {
+   "ingredients": [
+    "Pastry",
+    "Spiced minced meat/chicken/vegetables"
+   ],
+   "steps": [
+    "Fill pastry with spiced minced meat, chicken or vegetables.",
+    "Fold into triangles.",
+    "Deep-fry until golden."
+   ]
+  },
+  "Botswana::Seswaa": {
+   "ingredients": [
+    "Beef/goat",
+    "Salt",
+    "Water"
+   ],
+   "steps": [
+    "Slow-cook beef/goat with salt and a little water until extremely tender.",
+    "Shred/pound the meat.",
+    "Serve with bogobe or pap."
+   ]
+  },
+  "Botswana::Bogobe": {
+   "ingredients": [
+    "Sorghum/maize meal",
+    "Water",
+    "Milk or relish"
+   ],
+   "steps": [
+    "Cook sorghum/maize meal with water until a thick porridge forms.",
+    "Serve with milk or savory relish."
+   ]
+  },
+  "Botswana::Vetkoek": {
+   "ingredients": [
+    "Flour",
+    "Yeast",
+    "Water",
+    "Sugar",
+    "Oil"
+   ],
+   "steps": [
+    "Make yeast dough.",
+    "Allow it to rise.",
+    "Shape and deep-fry.",
+    "Fill with mince or serve sweet."
+   ]
+  },
+  "Botswana::Morogo": {
+   "ingredients": [
+    "Wild leafy greens",
+    "Onion",
+    "Tomato",
+    "Oil"
+   ],
+   "steps": [
+    "Cook wild leafy greens with onion, tomato and oil until tender."
+   ]
+  },
+  "Botswana::Phane": {
+   "ingredients": [
+    "Dried mopane worms",
+    "Onion",
+    "Tomato",
+    "Chili",
+    "Seasoning"
+   ],
+   "steps": [
+    "Rehydrate dried mopane worms.",
+    "Fry with onion, tomato, chili and seasoning."
+   ]
+  },
+  "Namibia::Kapana": {
+   "ingredients": [
+    "Thin beef strips",
+    "Chili, tomato, onion relish"
+   ],
+   "steps": [
+    "Cut beef into thin strips.",
+    "Grill over an open flame.",
+    "Serve with chili, tomato and onion relish."
+   ]
+  },
+  "Namibia::Oshifima": {
+   "ingredients": [
+    "Mahangu/millet or maize flour",
+    "Water"
+   ],
+   "steps": [
+    "Cook mahangu/millet or maize flour with water until very thick and smooth.",
+    "Serve with meat or vegetable sauce."
+   ]
+  },
+  "Namibia::Potjiekos": {
+   "ingredients": [
+    "Meat",
+    "Vegetables",
+    "Potatoes",
+    "Seasoning/stock"
+   ],
+   "steps": [
+    "Layer meat, vegetables and potatoes in a heavy pot.",
+    "Add seasoning/stock.",
+    "Slow-cook until tender."
+   ]
+  },
+  "Namibia::Omajowa": {
+   "ingredients": [
+    "Giant termite mushrooms",
+    "Onion",
+    "Tomato",
+    "Garlic",
+    "Seasoning"
+   ],
+   "steps": [
+    "Clean giant termite mushrooms.",
+    "Slice and fry with onion, tomato, garlic and seasoning."
+   ]
+  },
+  "Namibia::Biltong": {
+   "ingredients": [
+    "Thin beef strips",
+    "Salt",
+    "Vinegar",
+    "Coriander"
+   ],
+   "steps": [
+    "Season thin beef strips with salt, vinegar and coriander.",
+    "Dry in a controlled environment until firm."
+   ]
+  },
+  "Lesotho::Papa": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize meal with boiling water until thick and smooth."
+   ]
+  },
+  "Lesotho::Moroho": {
+   "ingredients": [
+    "Leafy greens",
+    "Onion",
+    "Tomato",
+    "Oil",
+    "Salt"
+   ],
+   "steps": [
+    "Cook leafy greens with onion, tomato, oil and salt until tender."
+   ]
+  },
+  "Lesotho::Motoho": {
+   "ingredients": [
+    "Fermented sorghum meal",
+    "Water",
+    "Milk, optional"
+   ],
+   "steps": [
+    "Cook fermented sorghum meal with water into a thick porridge.",
+    "Serve hot, often with milk."
+   ]
+  },
+  "Lesotho::Likahare": {
+   "ingredients": [
+    "Tripe",
+    "Onion",
+    "Tomato",
+    "Garlic",
+    "Spices"
+   ],
+   "steps": [
+    "Clean and boil tripe until tender.",
+    "Cook with onion, tomato, garlic and spices until richly flavored."
+   ]
+  },
+  "Eswatini::Sishwala": {
+   "ingredients": [
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook maize meal with water until thick and smooth.",
+    "Serve with meat or vegetable relish."
+   ]
+  },
+  "Eswatini::Emasi": {
+   "ingredients": [
+    "Milk"
+   ],
+   "steps": [
+    "Ferment milk until naturally thick and sour.",
+    "Serve chilled, often alongside maize dishes."
+   ]
+  },
+  "Eswatini::Incwancwa": {
+   "ingredients": [
+    "Fermented maize/sorghum meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook fermented maize/sorghum meal with water into a sour porridge, seasoning according to preference."
+   ]
+  },
+  "Eswatini::Sidvudvu": {
+   "ingredients": [
+    "Pumpkin",
+    "Maize meal",
+    "Water"
+   ],
+   "steps": [
+    "Cook mashed pumpkin with maize meal and water until thick and creamy."
+   ]
+  },
+  "Madagascar::Romazava": {
+   "ingredients": [
+    "Beef/zebu",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Tomatoes",
+    "Leafy greens"
+   ],
+   "steps": [
+    "Cook beef/zebu with onion, garlic, ginger and tomatoes.",
+    "Add leafy greens and simmer until tender."
+   ]
+  },
+  "Madagascar::Ravitoto": {
+   "ingredients": [
+    "Cassava leaves, pounded",
+    "Pork",
+    "Garlic",
+    "Ginger",
+    "Oil"
+   ],
+   "steps": [
+    "Pound cassava leaves finely.",
+    "Cook slowly with pork, garlic, ginger and a little oil until rich and tender."
+   ]
+  },
+  "Madagascar::Akoho sy Voanio": {
+   "ingredients": [
+    "Chicken",
+    "Coconut milk",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Turmeric"
+   ],
+   "steps": [
+    "Cook chicken with coconut milk, onion, garlic, ginger and turmeric until tender and creamy."
+   ]
+  },
+  "Madagascar::Vary Amin'anana": {
+   "ingredients": [
+    "Rice",
+    "Leafy greens",
+    "Ginger",
+    "Meat or fish"
+   ],
+   "steps": [
+    "Cook rice with finely chopped leafy greens, ginger and meat or fish until it becomes a soft savory rice dish."
+   ]
+  },
+  "Madagascar::Mofo Gasy": {
+   "ingredients": [
+    "Rice flour",
+    "Sugar",
+    "Yeast",
+    "Water"
+   ],
+   "steps": [
+    "Make a fermented rice-flour batter with sugar and yeast.",
+    "Pour into a greased round mold/pan.",
+    "Cook until golden."
+   ]
+  },
+  "Madagascar::Koba": {
+   "ingredients": [
+    "Rice-flour/peanut dough",
+    "Banana",
+    "Brown sugar",
+    "Banana leaves"
+   ],
+   "steps": [
+    "Layer rice-flour/peanut dough with banana and brown sugar.",
+    "Wrap in banana leaves.",
+    "Steam until firm."
+   ]
+  },
+  "Mauritius::Dholl Puri": {
+   "ingredients": [
+    "Flour",
+    "Cooked yellow split peas",
+    "Bean curry",
+    "Chutney"
+   ],
+   "steps": [
+    "Make dough from flour and cooked yellow split peas.",
+    "Stuff, roll very thin and cook on a hot griddle.",
+    "Serve with bean curry and chutney."
+   ]
+  },
+  "Mauritius::Rougaille": {
+   "ingredients": [
+    "Tomatoes",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chili",
+    "Herbs",
+    "Fish/chicken/sausage"
+   ],
+   "steps": [
+    "Cook tomatoes with onion, garlic, ginger, chili and herbs.",
+    "Add fish, chicken or sausage and simmer."
+   ]
+  },
+  "Mauritius::Mine Frit": {
+   "ingredients": [
+    "Noodles",
+    "Cabbage",
+    "Carrot",
+    "Onion",
+    "Soy sauce",
+    "Chicken/shrimp"
+   ],
+   "steps": [
+    "Boil noodles briefly.",
+    "Stir-fry with cabbage, carrot, onion, soy sauce and chicken/shrimp."
+   ]
+  },
+  "Mauritius::Gateaux Piments": {
+   "ingredients": [
+    "Split peas",
+    "Chili",
+    "Onion",
+    "Coriander"
+   ],
+   "steps": [
+    "Soak split peas.",
+    "Grind with chili, onion and coriander.",
+    "Form small balls and deep-fry."
+   ]
+  },
+  "Mauritius::Briani": {
+   "ingredients": [
+    "Spiced meat/chicken",
+    "Potatoes",
+    "Basmati rice"
+   ],
+   "steps": [
+    "Layer spiced meat/chicken, potatoes and partially cooked basmati rice.",
+    "Cover tightly and steam until fragrant and tender."
+   ]
+  },
+  "Mauritius::Farata": {
+   "ingredients": [
+    "Flour dough",
+    "Oil"
+   ],
+   "steps": [
+    "Make a soft flour dough.",
+    "Stretch thin.",
+    "Layer with oil, fold and pan-fry until flaky."
+   ]
+  },
+  "Seychelles::Fish Curry": {
+   "ingredients": [
+    "Fish",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Curry powder",
+    "Tomato",
+    "Coconut milk"
+   ],
+   "steps": [
+    "Fry fish pieces lightly.",
+    "Cook onion, garlic, ginger, curry powder and tomato.",
+    "Add coconut milk and fish.",
+    "Simmer gently."
+   ]
+  },
+  "Seychelles::Octopus Curry": {
+   "ingredients": [
+    "Octopus",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Curry spices",
+    "Coconut milk"
+   ],
+   "steps": [
+    "Tenderize octopus by boiling.",
+    "Cook with onion, garlic, ginger, curry spices and coconut milk."
+   ]
+  },
+  "Seychelles::Ladob": {
+   "ingredients": [
+    "Plantain/sweet potato",
+    "Coconut milk",
+    "Sugar",
+    "Cinnamon"
+   ],
+   "steps": [
+    "Cook plantain/sweet potato with coconut milk, sugar and cinnamon until soft and syrupy."
+   ]
+  },
+  "Seychelles::Satini": {
+   "ingredients": [
+    "Coconut",
+    "Chili",
+    "Tomato",
+    "Onion",
+    "Papaya, optional",
+    "Lime",
+    "Salt"
+   ],
+   "steps": [
+    "Grate or finely chop coconut, chili, tomato, onion and sometimes fruit such as papaya.",
+    "Mix with lime and salt."
+   ]
+  },
+  "Comoros::Langouste à la Vanille": {
+   "ingredients": [
+    "Lobster",
+    "Vanilla",
+    "Coconut milk/cream",
+    "Garlic",
+    "Ginger",
+    "Onion",
+    "Butter/oil",
+    "Lemon"
+   ],
+   "steps": [
+    "Cook lobster briefly.",
+    "Sauté aromatics, add vanilla and coconut cream.",
+    "Return lobster and simmer gently until cooked."
+   ]
+  },
+  "Comoros::Coconut Fish Curry": {
+   "ingredients": [
+    "Fish",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Turmeric",
+    "Chili",
+    "Coconut milk"
+   ],
+   "steps": [
+    "Fry fish lightly.",
+    "Cook onion, garlic, ginger, turmeric and chili.",
+    "Add coconut milk and fish.",
+    "Simmer until cooked."
+   ]
+  },
+  "Comoros::Pilao": {
+   "ingredients": [
+    "Meat",
+    "Onion",
+    "Whole spices",
+    "Rice",
+    "Stock"
+   ],
+   "steps": [
+    "Brown meat.",
+    "Fry onion and whole spices.",
+    "Add rice and stock.",
+    "Cook covered until fluffy and fragrant."
+   ]
+  },
+  "Comoros::Mkatra Foutra": {
+   "ingredients": [
+    "Flour",
+    "Coconut milk",
+    "Yeast",
+    "Sugar",
+    "Salt",
+    "Oil"
+   ],
+   "steps": [
+    "Make a soft enriched dough.",
+    "Allow it to rise.",
+    "Shape into flat rounds.",
+    "Cook/fry until golden."
+   ]
+  },
+  "Kenya::Ugali": {
+   "ingredients": [
+    "2 cups white maize flour",
+    "4 cups water",
+    "Pinch of salt"
+   ],
+   "steps": [
+    "Bring water to a boil in a heavy pot with a pinch of salt.",
+    "Add a third of the maize flour, whisking to avoid lumps, and let it cook for 2-3 minutes.",
+    "Gradually add the remaining flour while stirring vigorously with a wooden spoon.",
+    "Keep stirring and pressing the mixture against the pot until it forms a firm, smooth dough-like consistency (5-8 minutes).",
+    "Turn out onto a plate, shape into a mound, and serve hot with stew or vegetables."
+   ]
+  },
+  "Kenya::Nyama Choma": {
+   "ingredients": [
+    "2 kg goat meat or beef, cut into large chunks",
+    "2 tbsp vegetable oil",
+    "Salt to taste",
+    "Optional marinade: garlic, ginger, black pepper"
+   ],
+   "steps": [
+    "Season meat generously with salt (and marinade if using), letting it rest for at least 30 minutes.",
+    "Prepare a charcoal grill or open flame.",
+    "Grill the meat slowly over medium-low heat, turning occasionally, for 45-90 minutes depending on cut, until well-charred outside and tender inside.",
+    "Chop into smaller pieces and serve with kachumbari (tomato-onion salad) and ugali."
+   ]
+  },
+  "Kenya::Matoke": {
+   "ingredients": [
+    "8-10 green (unripe) bananas/plantains, peeled",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "1 cup meat or vegetable stock",
+    "2 tbsp oil",
+    "Salt to taste"
+   ],
+   "steps": [
+    "Wrap peeled green bananas in banana leaves or foil (optional) and steam until soft, about 45 minutes.",
+    "Meanwhile sauté onions and tomatoes in oil until soft.",
+    "Mash the steamed bananas lightly and mix into the onion-tomato sauce.",
+    "Add stock and simmer for 10-15 minutes, mashing further to desired consistency.",
+    "Serve as a starchy side with meat or groundnut sauce."
+   ]
+  },
+  "Tanzania::Ugali": {
+   "ingredients": [
+    "2 cups white maize flour",
+    "4 cups water",
+    "Pinch of salt"
+   ],
+   "steps": [
+    "Bring water to a boil with a pinch of salt.",
+    "Gradually whisk in maize flour to avoid lumps.",
+    "Stir vigorously until it forms a firm, smooth dough.",
+    "Shape into a mound and serve hot with stew or vegetables."
+   ]
+  },
+  "Tanzania::Nyama Choma": {
+   "ingredients": [
+    "2 kg goat meat or beef, cut into large chunks",
+    "Salt to taste",
+    "Optional marinade: garlic, ginger, black pepper"
+   ],
+   "steps": [
+    "Season meat generously and rest for at least 30 minutes.",
+    "Grill slowly over charcoal, turning occasionally, until well-charred outside and tender inside.",
+    "Chop into pieces and serve with kachumbari and ugali."
+   ]
+  },
+  "Tanzania::Pilau": {
+   "ingredients": [
+    "3 cups basmati rice",
+    "500 g beef or chicken",
+    "2 onions, sliced",
+    "1 tbsp pilau masala",
+    "3 cloves garlic, minced",
+    "1 tbsp ginger, minced",
+    "3 cups stock",
+    "Oil, salt to taste"
+   ],
+   "steps": [
+    "Fry sliced onions in oil until deep golden brown; remove some for garnish.",
+    "Add meat, garlic, ginger and pilau masala; brown well.",
+    "Add stock and simmer until meat is tender.",
+    "Add washed rice, adjusting liquid so it just covers the rice.",
+    "Cover and cook on low heat until rice is tender and liquid absorbed (20-25 minutes).",
+    "Garnish with the reserved fried onions before serving."
+   ]
+  },
+  "Uganda::Matoke": {
+   "ingredients": [
+    "8-10 green bananas/plantains, peeled",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "1 cup stock",
+    "2 tbsp oil",
+    "Salt to taste"
+   ],
+   "steps": [
+    "Steam peeled green bananas until soft, about 45 minutes.",
+    "Sauté onions and tomatoes in oil until soft.",
+    "Mash the steamed bananas lightly into the onion-tomato sauce.",
+    "Add stock and simmer, mashing to desired consistency.",
+    "Serve as a starchy side with meat or groundnut sauce."
+   ]
+  },
+  "Rwanda::Matoke": {
+   "ingredients": [
+    "8-10 green bananas/plantains, peeled",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "1 cup stock",
+    "2 tbsp oil",
+    "Salt to taste"
+   ],
+   "steps": [
+    "Steam peeled green bananas until soft.",
+    "Sauté onions and tomatoes in oil until soft.",
+    "Mash bananas lightly into the sauce.",
+    "Add stock and simmer to desired consistency.",
+    "Serve as a starchy side dish."
+   ]
+  },
+  "Ethiopia::Doro Wat": {
+   "ingredients": [
+    "1 whole chicken, cut into pieces",
+    "4 large red onions, finely chopped",
+    "1/2 cup berbere spice blend",
+    "1/4 cup niter kibbeh (spiced clarified butter) or oil",
+    "4 hard-boiled eggs",
+    "2 cloves garlic, minced",
+    "1 tbsp ginger, minced",
+    "Salt to taste",
+    "Injera, for serving"
+   ],
+   "steps": [
+    "Slowly cook the chopped onions in a dry pot over low heat, stirring often, for 20-30 minutes until deeply softened (no oil yet).",
+    "Add niter kibbeh, garlic, and ginger; cook a few minutes.",
+    "Stir in the berbere spice and cook until fragrant.",
+    "Add chicken pieces, coating well in the sauce, then add a little water and simmer covered for 30-40 minutes.",
+    "Add whole boiled eggs in the last 10 minutes so they absorb the sauce.",
+    "Serve hot with injera flatbread."
+   ]
+  },
+  "Eritrea::Injera": {
+   "ingredients": [
+    "Teff flour",
+    "Water",
+    "Starter/fermentation culture"
+   ],
+   "steps": [
+    "Mix teff flour and water into a batter.",
+    "Allow to ferment for 1-3 days.",
+    "Thin with water to a pourable consistency.",
+    "Pour onto a hot flat pan in a spiral.",
+    "Cover and cook until bubbles form and the surface dries.",
+    "Remove without flipping."
+   ]
+  },
+  "Eritrea::Shiro": {
+   "ingredients": [
+    "Shiro powder",
+    "Onion",
+    "Garlic",
+    "Tomato",
+    "Berbere",
+    "Oil/niter kibbeh",
+    "Water",
+    "Salt"
+   ],
+   "steps": [
+    "Fry onion in oil, add garlic and tomato.",
+    "Add berbere.",
+    "Mix shiro powder with water to prevent lumps and add to the pot.",
+    "Simmer while stirring until thick and smooth.",
+    "Serve with injera."
+   ]
+  },
+  "Somalia::Bariis Iskukaris": {
+   "ingredients": [
+    "3 cups basmati rice",
+    "500 g goat or beef, cut into pieces",
+    "2 onions, chopped",
+    "1 tbsp xawaash (Somali spice blend)",
+    "3 cloves garlic, minced",
+    "1/4 cup raisins",
+    "3 cups stock",
+    "Oil, salt to taste"
+   ],
+   "steps": [
+    "Brown the meat with onions and garlic in oil until well seared.",
+    "Stir in the xawaash spice blend and cook until fragrant.",
+    "Add stock and simmer until the meat is tender.",
+    "Add washed rice and raisins, ensuring liquid just covers the rice.",
+    "Cover and cook on low heat until rice is tender (20-25 minutes).",
+    "Serve with a side salad or banana, as is traditional."
+   ]
+  },
+  "Nigeria::Jollof Rice": {
+   "ingredients": [
+    "3 cups long-grain parboiled rice",
+    "4 large tomatoes, blended",
+    "2 red bell peppers, blended",
+    "1 onion, blended + 1 sliced",
+    "1/4 cup tomato paste",
+    "1/2 cup vegetable oil",
+    "2 stock cubes",
+    "1 tsp curry powder",
+    "1 tsp thyme",
+    "2 bay leaves",
+    "Chicken or beef stock",
+    "Salt to taste"
+   ],
+   "steps": [
+    "Blend tomatoes, peppers, and one onion into a smooth puree.",
+    "Heat oil, fry the sliced onion until soft, then add tomato paste and fry for 5 minutes.",
+    "Add the blended tomato-pepper mix and fry until the raw smell disappears and oil separates (15-20 min).",
+    "Add stock cubes, curry powder, thyme, and bay leaves.",
+    "Add washed parboiled rice and enough stock to just cover the rice.",
+    "Cover tightly and cook on low heat for 30-40 minutes, stirring occasionally, until rice is tender and liquid is absorbed."
+   ]
+  },
+  "Nigeria::Egusi Soup": {
+   "ingredients": [
+    "2 cups ground egusi (melon) seeds",
+    "1/2 cup palm oil",
+    "1 onion, chopped",
+    "2 cups chopped spinach or bitterleaf",
+    "500g assorted meat/fish, pre-cooked",
+    "2 stock cubes",
+    "1 tbsp ground crayfish",
+    "1 tsp ground pepper",
+    "Salt to taste"
+   ],
+   "steps": [
+    "Heat palm oil, fry the chopped onion until soft.",
+    "Mix ground egusi with a little water to form a paste, then add to the pot in spoonfuls, frying until it forms small lumps.",
+    "Add pepper, crayfish, and stock cubes, then pour in the meat/fish stock.",
+    "Simmer for 15-20 minutes, stirring occasionally.",
+    "Add the pre-cooked meat/fish and simmer another 10 minutes.",
+    "Stir in the chopped vegetables and cook for 5 more minutes.",
+    "Serve with pounded yam, eba, or fufu."
+   ]
+  },
+  "Nigeria::Suya": {
+   "ingredients": [
+    "1 kg beef sirloin, thinly sliced",
+    "1/2 cup roasted peanuts, finely ground",
+    "2 tbsp paprika",
+    "1 tbsp cayenne pepper",
+    "1 tsp ginger powder",
+    "1 tsp garlic powder",
+    "1 stock cube, crushed",
+    "2 tbsp vegetable oil",
+    "Salt to taste",
+    "Skewers"
+   ],
+   "steps": [
+    "Mix ground peanuts, paprika, cayenne, ginger, garlic powder, crushed stock cube, and salt to make the suya spice (yaji).",
+    "Thread thin beef slices onto skewers.",
+    "Brush lightly with oil, then coat generously with the suya spice mix on both sides.",
+    "Grill over medium-high heat (charcoal preferred), turning occasionally, until cooked through and slightly charred (10-15 minutes).",
+    "Serve hot with sliced onions, tomatoes, and extra spice on the side."
+   ]
+  },
+  "Ghana::Waakye": {
+   "ingredients": [
+    "2 cups rice",
+    "1 cup black-eyed peas",
+    "Dried millet/sorghum leaves (waakye leaves) or baking soda for color",
+    "Salt to taste",
+    "Stew, gari, boiled egg, and spaghetti to serve"
+   ],
+   "steps": [
+    "Boil black-eyed peas with the waakye leaves (or a pinch of baking soda) until beans are almost tender and the water is reddish-brown.",
+    "Add washed rice to the same pot without draining the colored bean water.",
+    "Add salt and enough water to cook the rice through, covered, until tender.",
+    "Serve with a spicy stew, gari, boiled egg, and other accompaniments as desired."
+   ]
+  },
+  "Senegal::Thieboudienne": {
+   "ingredients": [
+    "1 kg fish (grouper or similar), cut into steaks",
+    "2 cups broken rice",
+    "4 tomatoes, blended",
+    "1/4 cup tomato paste",
+    "1 cabbage, quartered",
+    "2 carrots, chunked",
+    "1 eggplant, chunked",
+    "1 cassava root, chunked",
+    "2 onions, chopped",
+    "3 cloves garlic",
+    "Parsley and chili for stuffing (rof)",
+    "Tamarind pulp (optional)",
+    "Oil, salt, pepper"
+   ],
+   "steps": [
+    "Make the 'rof' stuffing by blending parsley, garlic, and chili; stuff into slits cut in the fish.",
+    "Sear the stuffed fish in oil until browned; set aside.",
+    "In the same pot, sauté onions, add tomato paste and blended tomatoes, and cook until thickened.",
+    "Add water/stock and all vegetables, simmer until tender; remove and set aside with the fish.",
+    "Add the rice to the remaining broth and cook until tender, adding more liquid as needed.",
+    "Serve the rice topped with the fish and vegetables."
+   ]
+  },
+  "Cameroon::Ndolé": {
+   "ingredients": [
+    "500g ndolé leaves (or substitute bitterleaf/spinach), washed well",
+    "1 cup ground peanuts",
+    "500g beef, smoked fish, and shrimp (mixed)",
+    "1 onion, chopped",
+    "2 stock cubes",
+    "Palm oil or vegetable oil",
+    "Salt, pepper to taste"
+   ],
+   "steps": [
+    "Boil the ndolé leaves (parboil and rinse well if using a bitter substitute) until tender; set aside.",
+    "Cook the mixed meats and smoked fish in stock until tender.",
+    "In a separate pot, sauté onion in oil, then stir in the ground peanut paste with a little water to loosen it.",
+    "Add the cooked meats, fish, shrimp, and their stock to the peanut mixture; simmer 15 minutes.",
+    "Stir in the prepared ndolé leaves and simmer another 10-15 minutes until well combined.",
+    "Serve with boiled plantain, rice, or fufu."
+   ]
+  },
+  "Egypt::Koshari": {
+   "ingredients": [
+    "1 cup rice",
+    "1 cup brown lentils",
+    "1 cup small pasta (macaroni or elbow)",
+    "1 cup chickpeas, cooked",
+    "2 large onions, thinly sliced and fried crispy",
+    "4 tomatoes, blended for sauce",
+    "3 cloves garlic",
+    "1 tbsp vinegar",
+    "1 tsp cumin",
+    "Chili sauce (dakka), to taste",
+    "Oil for frying"
+   ],
+   "steps": [
+    "Cook rice, lentils, and pasta separately until tender; keep warm.",
+    "Deep fry sliced onions until golden and crispy; set aside.",
+    "Make the tomato sauce: sauté garlic in oil, add blended tomatoes, cumin, vinegar, and simmer 15-20 minutes.",
+    "Make the chili vinegar sauce (dakka) by simmering garlic, vinegar, and chili together briefly.",
+    "Layer rice, lentils, pasta, and chickpeas in a bowl.",
+    "Top generously with tomato sauce, crispy onions, and chili sauce to taste."
+   ]
+  },
+  "Morocco::Tagine": {
+   "ingredients": [
+    "1 kg lamb or chicken, cut into pieces",
+    "2 onions, sliced",
+    "3 cloves garlic, minced",
+    "1 tsp ginger",
+    "1 tsp turmeric",
+    "1 tsp cinnamon",
+    "1/2 tsp saffron threads",
+    "2 tbsp olive oil",
+    "1 cup dried apricots or preserved lemon",
+    "1/2 cup olives (optional)",
+    "2 cups water or stock"
+   ],
+   "steps": [
+    "Heat oil in a tagine pot or heavy pan, brown the meat pieces on all sides.",
+    "Add onions and garlic, cook until softened.",
+    "Stir in ginger, turmeric, cinnamon, and saffron; cook briefly until fragrant.",
+    "Add stock, cover, and simmer gently for 1-1.5 hours until meat is very tender.",
+    "Add apricots or preserved lemon (and olives) in the last 15 minutes.",
+    "Serve hot directly from the tagine, with bread or couscous."
+   ]
+  },
+  "Morocco::Couscous": {
+   "ingredients": [
+    "2 cups couscous grains",
+    "2 cups vegetable or chicken stock",
+    "2 carrots, chunked",
+    "2 zucchini, chunked",
+    "1 cup pumpkin, chunked",
+    "1 cup chickpeas, cooked",
+    "1 onion, chopped",
+    "2 tbsp olive oil",
+    "1 tsp turmeric",
+    "1 tsp cinnamon",
+    "Salt and pepper to taste"
+   ],
+   "steps": [
+    "Sauté onion in olive oil until soft, then add turmeric and cinnamon.",
+    "Add vegetables and chickpeas, then pour in stock; simmer covered for 20-25 minutes until vegetables are tender.",
+    "Meanwhile, steam or soak couscous according to package instructions, fluffing with a fork and a little oil.",
+    "Mound the couscous on a large plate, top with the vegetable stew and its broth.",
+    "Serve hot, traditionally shared from one large dish."
+   ]
+  },
+  "South Africa::Bobotie": {
+   "ingredients": [
+    "500g ground beef or lamb",
+    "1 onion, chopped",
+    "2 slices bread, soaked in milk",
+    "2 tbsp curry powder",
+    "1 tbsp turmeric",
+    "1/4 cup raisins",
+    "2 tbsp apricot jam or chutney",
+    "2 eggs",
+    "1 cup milk",
+    "Bay leaves"
+   ],
+   "steps": [
+    "Sauté onion until soft, add curry powder and turmeric, cook briefly.",
+    "Add ground meat and cook through, then stir in soaked bread, raisins, and chutney.",
+    "Transfer to a baking dish and press down evenly; place bay leaves on top.",
+    "Whisk eggs with milk and pour over the meat mixture.",
+    "Bake at 180°C (350°F) for 35-40 minutes until the egg topping is set and golden.",
+    "Serve with yellow rice."
+   ]
+  },
+  "South Africa::Bunny Chow": {
+   "ingredients": [
+    "1 unsliced loaf of bread",
+    "500g lamb or chicken curry (bone-in preferred)",
+    "2 onions, chopped",
+    "3 cloves garlic",
+    "1 tbsp curry powder",
+    "1 tsp turmeric",
+    "2 tomatoes, chopped",
+    "Oil, salt to taste"
+   ],
+   "steps": [
+    "Prepare a thick curry: sauté onions and garlic, add curry powder and turmeric, then meat and tomatoes.",
+    "Simmer covered until the meat is very tender and the sauce is thick (45-60 minutes).",
+    "Cut a quarter loaf of bread and hollow out the center, keeping the removed bread as 'lid' pieces.",
+    "Ladle the thick curry into the hollowed bread cavity.",
+    "Serve with the bread lid and a side of shredded carrot salad (sambal)."
+   ]
+  }
+ }
+}
