@@ -89,6 +89,24 @@ function RecipePage() {
           />
         </div>
 
+        <section className="mb-10 flex flex-col gap-4 rounded-2xl border border-border bg-secondary/50 p-5 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h2 className="font-display text-xl font-semibold">Watch it being made</h2>
+            <p className="mt-1 text-sm text-muted-foreground">
+              Find video tutorials for {recipe.name} on YouTube.
+            </p>
+          </div>
+          <a
+            href={videoUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex w-full shrink-0 items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 font-medium text-primary-foreground transition hover:opacity-90 sm:w-auto"
+          >
+            <Play className="size-4 fill-current" aria-hidden="true" />
+            Watch on YouTube
+          </a>
+        </section>
+
         <div className="grid gap-12 lg:grid-cols-[minmax(0,320px)_1fr]">
           <section>
             <h2 className="font-display text-2xl font-semibold">Ingredients</h2>
