@@ -1,5 +1,14 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Play, Users } from "lucide-react";
+import {
+  ArrowLeft,
+  ChefHat,
+  Clock,
+  Flame,
+  MapPin,
+  Play,
+  Users,
+  UtensilsCrossed,
+} from "lucide-react";
 import { useState } from "react";
 import { RecipeCard } from "@/components/RecipeCard";
 import { difficulty, estimatedMinutes, getRecipe, relatedRecipes } from "@/data/cookbook";
@@ -25,6 +34,8 @@ export const Route = createFileRoute("/recipe/$slug")({
         { name: "description", content: description },
         { property: "og:title", content: title },
         { property: "og:description", content: description },
+        { property: "og:type", content: "article" },
+        { name: "twitter:card", content: "summary_large_image" },
       ],
     };
   },
@@ -52,14 +63,27 @@ function RecipePage() {
   return (
     <article className="pb-24">
       <div className="relative h-[46vh] min-h-[320px] mb-4 w-full overflow-hidden">
-        <img
-          src={recipe.image}
-          alt={`${recipe.name}, a dish from ${recipe.country}`}
-          width={1024}
-          height={768}
-          className="h-full w-full object-cover"
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-foreground/85 via-foreground/40 to-foreground/10" />
+        {recipe.image ? (
+          <img
+            src={recipe.image}
+            alt={`${recipe.name}, a dish from ${recipe.country}`}
+            loading="eager"
+            fetchPriority="high"
+            width={1024}
+            height={768}
+            className="h-full w-full object-cover"
+          />
+        ) : (
+          <div className="absolute inset-0 flex items-center justify-center bg-secondary text-secondary-foreground">
+            <div className="flex flex-col items-center gap-3 opacity-70">
+              <span className="flex size-16 items-center justify-center rounded-full border border-border bg-background/50">
+                <UtensilsCrossed className="size-7" aria-hidden="true" />
+              </span>
+              <span className="text-xs font-medium tracking-wide uppercase">Photo coming soon</span>
+            </div>
+          </div>
+        )}
+        <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/35 to-transparent" />
         <div className="absolute inset-x-0 bottom-0 mx-auto max-w-5xl px-6 pb-20">
           <Link
             to="/"
