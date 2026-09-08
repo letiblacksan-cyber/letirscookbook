@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, Clock, Flame, MapPin, Printer, Users } from "lucide-react";
+import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Users } from "lucide-react";
 import { useState } from "react";
 import { RecipeCard } from "@/components/RecipeCard";
 import { difficulty, estimatedMinutes, getRecipe, relatedRecipes } from "@/data/cookbook";
@@ -57,7 +57,7 @@ function RecipePage() {
           className="h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-foreground/85 via-foreground/40 to-foreground/10" />
-        <div className="absolute inset-x-0 bottom-0 mx-auto max-w-5xl px-6 pb-8">
+        <div className="absolute inset-x-0 bottom-0 mx-auto max-w-5xl px-6 pb-20">
           <Link
             to="/"
             className="mb-4 inline-flex items-center gap-2 rounded-full bg-background/90 px-3 py-1.5 text-sm font-medium text-foreground backdrop-blur transition hover:bg-background"
@@ -80,8 +80,8 @@ function RecipePage() {
           <Stat icon={<Flame className="size-4" />} label="Effort" value={difficulty(recipe)} />
           <Stat icon={<Users className="size-4" />} label="Serves" value="4" />
           <Stat
-            icon={<Printer className="size-4" />}
-            label="Category"
+            icon={<ChefHat className="size-4" />}
+            label="Type"
             value={recipe.category.split(" ")[0] ?? recipe.category}
           />
         </div>
