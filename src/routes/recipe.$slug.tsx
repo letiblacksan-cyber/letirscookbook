@@ -48,7 +48,7 @@ function RecipePage() {
 
   return (
     <article className="pb-24">
-      <div className="relative h-[46vh] min-h-[320px] w-full overflow-hidden">
+      <div className="relative h-[46vh] min-h-[320px] mb-4 w-full overflow-hidden">
         <img
           src={recipe.image}
           alt={`${recipe.name}, a dish from ${recipe.country}`}
@@ -75,7 +75,7 @@ function RecipePage() {
       </div>
 
       <div className="mx-auto max-w-5xl px-6">
-        <div className="relative z-10 -mt-8 mb-10 grid grid-cols-2 gap-3 rounded-2xl border border-border bg-card p-5 shadow-lg sm:grid-cols-4">
+        <div className="relative z-10 -mt-10 mb-10 grid grid-cols-2 gap-3 rounded-2xl border border-border bg-card p-5 shadow-lg sm:grid-cols-4">
           <Stat icon={<Clock className="size-4" />} label="Time" value={`${estimatedMinutes(recipe)} min`} />
           <Stat icon={<Flame className="size-4" />} label="Effort" value={difficulty(recipe)} />
           <Stat icon={<Users className="size-4" />} label="Serves" value="4" />
