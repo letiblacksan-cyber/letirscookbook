@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Users } from "lucide-react";
+import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Play, Users } from "lucide-react";
 import { useState } from "react";
 import { RecipeCard } from "@/components/RecipeCard";
 import { difficulty, estimatedMinutes, getRecipe, relatedRecipes } from "@/data/cookbook";
@@ -45,6 +45,9 @@ function RecipePage() {
   const [done, setDone] = useState<Record<number, boolean>>({});
   const [checkedIng, setCheckedIng] = useState<Record<number, boolean>>({});
   const related = relatedRecipes(recipe);
+  const videoUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
+    `${recipe.name} ${recipe.country} recipe how to cook`,
+  )}`;
 
   return (
     <article className="pb-24">
