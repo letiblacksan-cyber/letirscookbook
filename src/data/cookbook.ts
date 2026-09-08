@@ -349,13 +349,14 @@ function build(): Recipe[] {
         seen.add(slug);
         const r = data.recipes[`${country}::${name}`];
         const category = categorise(name);
+        const image = DISH_IMAGES[slug];
         out.push({
           slug,
           name,
           country,
           region,
           category,
-          image: DISH_IMAGES[slug],
+          ...(image ? { image } : {}),
           ingredients: r?.ingredients ?? [],
           steps: r?.steps ?? [],
         });
@@ -365,7 +366,35 @@ function build(): Recipe[] {
   return out;
 }
 
-export const RECIPES: Recipe[] = build();
+const FEATURED_SLUGS = [
+  "kenya-ugali",
+  "nigeria-jollof-rice",
+  "ethiopia-injera",
+  "south-africa-bobotie",
+  "egypt-koshari",
+  "senegal-thieboudienne",
+  "cameroon-ndole",
+  "morocco-tagine",
+  "madagascar-romazava",
+  "ghana-waakye",
+  "mozambique-piri-piri-chicken",
+  "mauritius-dholl-puri",
+  "kenya-nyama-choma",
+  "kenya-sukuma-wiki",
+  "kenya-kenyan-pilau",
+  "kenya-chapati",
+];
+
+const allRecipes = build();
+const recipesBySlug = new Map(allRecipes.map((recipe) => [recipe.slug, recipe]));
+
+export const RECIPES: Recipe[] = [
+  ...FEATURED_SLUGS.flatMap((slug) => {
+    const recipe = recipesBySlug.get(slug);
+    return recipe ? [recipe] : [];
+  }),
+  ...allRecipes.filter((recipe) => !FEATURED_SLUGS.includes(recipe.slug)),
+];
 
 export const REGIONS: string[] = Object.keys(data.regions);
 
