@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Users } from "lucide-react";
+import { ArrowLeft, ChefHat, Clock, Flame, MapPin, Play, Users } from "lucide-react";
 import { useState } from "react";
 import { RecipeCard } from "@/components/RecipeCard";
 import { difficulty, estimatedMinutes, getRecipe, relatedRecipes } from "@/data/cookbook";
@@ -45,6 +45,9 @@ function RecipePage() {
   const [done, setDone] = useState<Record<number, boolean>>({});
   const [checkedIng, setCheckedIng] = useState<Record<number, boolean>>({});
   const related = relatedRecipes(recipe);
+  const videoUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
+    `${recipe.name} ${recipe.country} recipe how to cook`,
+  )}`;
 
   return (
     <article className="pb-24">
@@ -85,6 +88,24 @@ function RecipePage() {
             value={recipe.category.split(" ")[0] ?? recipe.category}
           />
         </div>
+
+        <section className="mb-10 flex flex-col gap-4 rounded-2xl border border-border bg-secondary/50 p-5 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h2 className="font-display text-xl font-semibold">Watch it being made</h2>
+            <p className="mt-1 text-sm text-muted-foreground">
+              Find video tutorials for {recipe.name} on YouTube.
+            </p>
+          </div>
+          <a
+            href={videoUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex w-full shrink-0 items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 font-medium text-primary-foreground transition hover:opacity-90 sm:w-auto"
+          >
+            <Play className="size-4 fill-current" aria-hidden="true" />
+            Watch on YouTube
+          </a>
+        </section>
 
         <div className="grid gap-12 lg:grid-cols-[minmax(0,320px)_1fr]">
           <section>
