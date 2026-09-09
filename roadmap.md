@@ -1,16 +1,13 @@
 # Roadmap
 
-## Open
-- [ ] Payments: awaiting user choice (Paddle recommended; needs product type: one-time / subscription / e-book). Blocked on user answer.
-- [ ] Agent integrations (MCP): awaiting access choice (public vs OAuth). Blocked on user answer.
-- [ ] Google Play release prep via Capacitor Android:
-  - [ ] Add Capacitor (core, cli, android) + capacitor.config
-  - [ ] Mobile-safe navigation & layouts (safe-area insets, tap targets, back nav)
-  - [ ] PWA/app metadata: manifest, theme color, app icons, splash
-  - [ ] Release-readiness (offline-tolerant shell, no broken external deps)
-  - [ ] Report Play Console owner checklist (dev account, listing assets, privacy policy, signing/AAB upload, testing track)
+## Open (blocked on owner)
+- [ ] Payments: awaiting choice of provider go-ahead (Paddle recommended) and product type (one-time / subscription / e-book).
+- [ ] Agent integrations (MCP): awaiting access choice (public, no login vs protected with sign-in).
+- [ ] Google Play submission steps that only the account owner can do (see PLAY_STORE.md).
 
 ## Done
 - Cookbook data layer, index/search/filter, recipe detail pages
 - Dish-accurate photography + neutral placeholders
 - YouTube "watch it being made" section
+- Capacitor Android packaging config, app icons, web app manifest,
+  safe-area/mobile layout hardening, privacy policy page, native back button
