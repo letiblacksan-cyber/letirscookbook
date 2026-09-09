@@ -1,0 +1,23 @@
+{
+  "name": "Letir's All African Cookbook",
+  "short_name": "African Cookbook",
+  "description": "329 iconic African recipes from 54 kitchens across the continent, with full ingredients and step-by-step method.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf6ec",
+  "theme_color": "#c9601c",
+  "categories": ["food", "lifestyle", "education"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
