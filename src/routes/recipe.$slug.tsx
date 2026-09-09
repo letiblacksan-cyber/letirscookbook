@@ -61,8 +61,8 @@ function RecipePage() {
   )}`;
 
   return (
-    <article className="pb-24">
-      <div className="relative h-[46vh] min-h-[320px] mb-4 w-full overflow-hidden">
+    <article className="pb-safe">
+      <div className="relative mb-4 h-[42vh] max-h-[520px] min-h-[280px] w-full overflow-hidden">
         {recipe.image ? (
           <img
             src={recipe.image}
@@ -84,7 +84,7 @@ function RecipePage() {
           </div>
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/35 to-transparent" />
-        <div className="absolute inset-x-0 bottom-0 mx-auto max-w-5xl px-6 pb-20">
+        <div className="absolute inset-x-0 bottom-0 mx-auto max-w-5xl px-4 pb-20 sm:px-6">
           <Link
             to="/"
             className="mb-4 inline-flex items-center gap-2 rounded-full bg-background/90 px-3 py-1.5 text-sm font-medium text-foreground backdrop-blur transition hover:bg-background"
@@ -95,14 +95,14 @@ function RecipePage() {
             <MapPin className="size-4" aria-hidden="true" />
             {recipe.country} · {recipe.region}
           </p>
-          <h1 className="font-display mt-2 text-4xl font-bold text-background sm:text-5xl">
+          <h1 className="font-display mt-2 text-[1.9rem] leading-tight font-bold text-background sm:text-5xl">
             {recipe.name}
           </h1>
         </div>
       </div>
 
-      <div className="mx-auto max-w-5xl px-6">
-        <div className="relative z-10 -mt-10 mb-10 grid grid-cols-2 gap-3 rounded-2xl border border-border bg-card p-5 shadow-lg sm:grid-cols-4">
+      <div className="mx-auto max-w-5xl px-4 sm:px-6">
+        <div className="relative z-10 -mt-10 mb-10 grid grid-cols-2 gap-3 rounded-2xl border border-border bg-card p-4 shadow-lg sm:grid-cols-4 sm:p-5">
           <Stat icon={<Clock className="size-4" />} label="Time" value={`${estimatedMinutes(recipe)} min`} />
           <Stat icon={<Flame className="size-4" />} label="Effort" value={difficulty(recipe)} />
           <Stat icon={<Users className="size-4" />} label="Serves" value="4" />

@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import heroImg from "@/assets/hero.jpg";
@@ -82,11 +82,11 @@ function Home() {
           className="absolute inset-0 -z-10 h-full w-full object-cover"
         />
         <div className="absolute inset-0 -z-10 bg-gradient-to-b from-foreground/80 via-foreground/70 to-foreground/90" />
-        <div className="mx-auto max-w-5xl px-6 py-24 text-center sm:py-32">
+        <div className="pt-safe mx-auto max-w-5xl px-6 py-20 text-center sm:py-32">
           <p className="text-sm font-medium tracking-[0.25em] text-background/80 uppercase">
             A continent of flavour
           </p>
-          <h1 className="font-display mt-4 text-4xl font-bold text-background sm:text-6xl">
+          <h1 className="font-display mt-4 text-[2rem] leading-tight font-bold text-background sm:text-6xl">
             Letir's All African Cookbook
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg text-background/85">
@@ -119,8 +119,8 @@ function Home() {
         </div>
       </header>
 
-      <div className="sticky top-0 z-20 border-b border-border bg-background/90 backdrop-blur">
-        <div className="mx-auto max-w-7xl space-y-3 px-6 py-4">
+      <div className="pt-safe sticky top-0 z-20 border-b border-border bg-background/90 backdrop-blur">
+        <div className="mx-auto max-w-7xl space-y-3 px-4 py-3 sm:px-6 sm:py-4">
           <ChipRow
             label="Region"
             options={["All", ...REGIONS]}
@@ -154,7 +154,7 @@ function Home() {
         </div>
       </div>
 
-      <section className="mx-auto max-w-7xl px-6 py-10">
+      <section className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-10">
         <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
           <h2 className="font-display text-2xl font-semibold">
             {results.length} {results.length === 1 ? "recipe" : "recipes"}
@@ -178,7 +178,7 @@ function Home() {
           </div>
         ) : (
           <>
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            <div className="grid gap-4 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3 xl:grid-cols-4">
               {visible.map((r) => (
                 <RecipeCard key={r.slug} recipe={r} />
               ))}
@@ -198,9 +198,12 @@ function Home() {
         )}
       </section>
 
-      <footer className="border-t border-border bg-secondary/40 py-10">
-        <div className="mx-auto max-w-7xl px-6 text-sm text-muted-foreground">
-          Letir's All African Cookbook — celebrating iconic dishes across the continent.
+      <footer className="pb-safe border-t border-border bg-secondary/40 py-10">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 text-sm text-muted-foreground sm:px-6">
+          <span>Letir's All African Cookbook — celebrating iconic dishes across the continent.</span>
+          <Link to="/privacy" className="font-medium underline hover:text-foreground">
+            Privacy
+          </Link>
         </div>
       </footer>
     </main>

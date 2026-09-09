@@ -151,13 +151,64 @@
 }
 
 @layer base {
+  html {
+    /* Stops iOS/Android from re-flowing type when the device rotates. */
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
   body {
     font-family: var(--font-body);
+    /* Respect notches and gesture bars when running as an installed app. */
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+    /* No horizontal rubber-banding inside the native shell. */
+    overflow-x: hidden;
+    overscroll-behavior-y: none;
   }
+
   h1,
   h2,
   h3,
   .font-display {
     font-family: var(--font-display);
   }
+
+  /* Comfortable, thumb-friendly hit areas on touch devices. */
+  @media (pointer: coarse) {
+    button,
+    a[href],
+    [role="button"],
+    input,
+    select {
+      touch-action: manipulation;
+    }
+  }
+
+  /* Never let a long dish or country name blow out the mobile layout. */
+  h1,
+  h2,
+  h3 {
+    overflow-wrap: break-word;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@utility pb-safe {
+  padding-bottom: max(2.5rem, env(safe-area-inset-bottom));
+}
+
+@utility pt-safe {
+  padding-top: max(0px, env(safe-area-inset-top));
 }
